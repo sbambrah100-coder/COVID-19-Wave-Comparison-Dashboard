@@ -1,0 +1,1257 @@
+Record_ID,Date,Wave,Dominant_Variant,State,New_Cases,Hospitalizations,ICU_Admissions,Deaths,Positivity_Rate_Percent,Vaccination_Rate_Percent
+COV0001,2020-04-01,Wave 1,Alpha / Wild Type,Uttar Pradesh,1218,201,32,4,5.38,2.16
+COV0002,2020-04-01,Wave 1,Alpha / Wild Type,Kerala,2094,306,63,9,7.79,1.41
+COV0003,2020-04-01,Wave 1,Alpha / Wild Type,Uttar Pradesh,1933,292,45,5,7.69,0.41
+COV0004,2020-04-02,Wave 1,Alpha / Wild Type,Andhra Pradesh,1249,158,36,4,8.39,4.34
+COV0005,2020-04-02,Wave 1,Alpha / Wild Type,Uttar Pradesh,1882,294,52,6,6.58,0.03
+COV0006,2020-04-02,Wave 1,Alpha / Wild Type,Delhi,2712,451,88,13,6.2,2.0
+COV0007,2020-04-04,Wave 1,Alpha / Wild Type,West Bengal,2387,313,74,13,7.85,4.22
+COV0008,2020-04-04,Wave 1,Alpha / Wild Type,Tamil Nadu,2811,377,84,11,7.16,3.17
+COV0009,2020-04-05,Wave 1,Alpha / Wild Type,Maharashtra,3245,561,108,12,4.06,2.8
+COV0010,2020-04-05,Wave 1,Alpha / Wild Type,Andhra Pradesh,1584,261,41,4,5.77,4.71
+COV0011,2020-04-05,Wave 1,Alpha / Wild Type,Kerala,1613,281,49,6,7.8,2.25
+COV0012,2020-04-06,Wave 1,Alpha / Wild Type,Kerala,3080,454,111,12,6.93,2.53
+COV0013,2020-04-08,Wave 1,Alpha / Wild Type,Tamil Nadu,3029,434,90,13,8.94,0.68
+COV0014,2020-04-10,Wave 1,Alpha / Wild Type,Maharashtra,924,143,22,3,6.98,1.67
+COV0015,2020-04-11,Wave 1,Alpha / Wild Type,Tamil Nadu,2285,311,76,8,6.16,4.72
+COV0016,2020-04-13,Wave 1,Alpha / Wild Type,Delhi,1446,241,51,5,5.8,4.78
+COV0017,2020-04-13,Wave 1,Alpha / Wild Type,Karnataka,1949,316,48,9,8.16,1.06
+COV0018,2020-04-13,Wave 1,Alpha / Wild Type,Uttar Pradesh,1895,229,45,7,7.61,3.46
+COV0019,2020-04-14,Wave 1,Alpha / Wild Type,Maharashtra,822,106,25,4,7.17,4.36
+COV0020,2020-04-15,Wave 1,Alpha / Wild Type,Tamil Nadu,2714,447,88,9,8.79,4.71
+COV0021,2020-04-16,Wave 1,Alpha / Wild Type,Rajasthan,3106,386,71,7,8.32,3.12
+COV0022,2020-04-17,Wave 1,Alpha / Wild Type,Andhra Pradesh,1349,241,39,5,7.09,3.51
+COV0023,2020-04-17,Wave 1,Alpha / Wild Type,Rajasthan,1809,320,67,8,7.36,3.09
+COV0024,2020-04-17,Wave 1,Alpha / Wild Type,Rajasthan,1818,305,48,9,7.86,0.99
+COV0025,2020-04-19,Wave 1,Alpha / Wild Type,Andhra Pradesh,1562,248,58,9,6.15,3.36
+COV0026,2020-04-20,Wave 1,Alpha / Wild Type,Tamil Nadu,971,123,29,4,6.25,2.93
+COV0027,2020-04-20,Wave 1,Alpha / Wild Type,Maharashtra,2099,314,68,7,5.37,4.03
+COV0028,2020-04-21,Wave 1,Alpha / Wild Type,Delhi,1771,245,58,9,8.13,4.92
+COV0029,2020-04-21,Wave 1,Alpha / Wild Type,Delhi,3158,409,80,8,5.23,3.63
+COV0030,2020-04-22,Wave 1,Alpha / Wild Type,Rajasthan,3199,453,77,15,6.27,3.44
+COV0031,2020-04-23,Wave 1,Alpha / Wild Type,Andhra Pradesh,1451,205,36,6,8.05,4.34
+COV0032,2020-04-23,Wave 1,Alpha / Wild Type,Gujarat,2193,325,50,5,5.38,4.86
+COV0033,2020-04-23,Wave 1,Alpha / Wild Type,West Bengal,995,153,28,4,5.2,0.96
+COV0034,2020-04-24,Wave 1,Alpha / Wild Type,Delhi,1164,172,27,4,6.37,0.87
+COV0035,2020-04-25,Wave 1,Alpha / Wild Type,Tamil Nadu,1593,263,55,8,6.06,1.74
+COV0036,2020-04-26,Wave 1,Alpha / Wild Type,Kerala,3365,577,99,10,4.12,3.21
+COV0037,2020-04-26,Wave 1,Alpha / Wild Type,Rajasthan,997,121,29,4,7.19,3.3
+COV0038,2020-04-27,Wave 1,Alpha / Wild Type,Gujarat,2098,362,74,11,6.15,1.58
+COV0039,2020-04-28,Wave 1,Alpha / Wild Type,Uttar Pradesh,817,140,27,4,6.44,3.33
+COV0040,2020-04-29,Wave 1,Alpha / Wild Type,Rajasthan,2315,335,59,6,8.32,4.06
+COV0041,2020-04-30,Wave 1,Alpha / Wild Type,Gujarat,2032,352,86,15,5.58,3.44
+COV0042,2020-04-30,Wave 1,Alpha / Wild Type,Karnataka,2916,443,75,7,5.21,4.88
+COV0043,2020-04-30,Wave 1,Alpha / Wild Type,Rajasthan,3256,406,100,12,7.85,3.12
+COV0044,2020-04-30,Wave 1,Alpha / Wild Type,West Bengal,2867,464,83,15,8.86,4.72
+COV0045,2020-05-01,Wave 1,Alpha / Wild Type,Maharashtra,3466,441,96,13,5.0,2.46
+COV0046,2020-05-01,Wave 1,Alpha / Wild Type,Karnataka,1646,274,60,6,5.52,1.32
+COV0047,2020-05-02,Wave 1,Alpha / Wild Type,Delhi,1304,170,37,6,8.72,3.42
+COV0048,2020-05-02,Wave 1,Alpha / Wild Type,Tamil Nadu,1459,259,51,5,6.74,2.27
+COV0049,2020-05-03,Wave 1,Alpha / Wild Type,Gujarat,3431,490,100,19,7.12,0.58
+COV0050,2020-05-03,Wave 1,Alpha / Wild Type,Karnataka,2179,264,48,7,7.85,3.42
+COV0051,2020-05-04,Wave 1,Alpha / Wild Type,Rajasthan,934,162,29,4,7.92,1.98
+COV0052,2020-05-05,Wave 1,Alpha / Wild Type,Karnataka,1537,228,47,6,7.47,4.3
+COV0053,2020-05-05,Wave 1,Alpha / Wild Type,Karnataka,2254,309,71,13,8.23,4.59
+COV0054,2020-05-06,Wave 1,Alpha / Wild Type,Delhi,1503,181,29,3,4.2,4.28
+COV0055,2020-05-06,Wave 1,Alpha / Wild Type,Rajasthan,2627,384,81,15,5.2,0.61
+COV0056,2020-05-06,Wave 1,Alpha / Wild Type,Karnataka,1574,204,37,6,6.6,1.02
+COV0057,2020-05-06,Wave 1,Alpha / Wild Type,Andhra Pradesh,2728,486,83,10,5.52,1.15
+COV0058,2020-05-06,Wave 1,Alpha / Wild Type,Maharashtra,1405,178,35,4,8.18,0.07
+COV0059,2020-05-06,Wave 1,Alpha / Wild Type,Rajasthan,2619,471,87,15,6.01,2.4
+COV0060,2020-05-07,Wave 1,Alpha / Wild Type,Gujarat,1328,214,49,5,4.84,0.52
+COV0061,2020-05-07,Wave 1,Alpha / Wild Type,Maharashtra,2678,326,78,12,7.98,2.41
+COV0062,2020-05-07,Wave 1,Alpha / Wild Type,Kerala,1549,258,53,7,8.53,0.56
+COV0063,2020-05-08,Wave 1,Alpha / Wild Type,West Bengal,1973,323,80,10,7.27,0.99
+COV0064,2020-05-08,Wave 1,Alpha / Wild Type,Andhra Pradesh,2429,430,67,7,5.41,1.31
+COV0065,2020-05-09,Wave 1,Alpha / Wild Type,Maharashtra,2174,376,64,7,7.05,2.06
+COV0066,2020-05-09,Wave 1,Alpha / Wild Type,Andhra Pradesh,3255,531,86,16,4.33,2.67
+COV0067,2020-05-11,Wave 1,Alpha / Wild Type,Delhi,1096,136,29,3,7.62,0.33
+COV0068,2020-05-11,Wave 1,Alpha / Wild Type,West Bengal,4985,815,201,30,5.61,3.98
+COV0069,2020-05-11,Wave 1,Alpha / Wild Type,Kerala,2683,384,82,11,6.73,4.71
+COV0070,2020-05-12,Wave 1,Alpha / Wild Type,Gujarat,3415,523,116,18,4.94,1.78
+COV0071,2020-05-12,Wave 1,Alpha / Wild Type,Kerala,1665,279,50,9,7.01,2.91
+COV0072,2020-05-14,Wave 1,Alpha / Wild Type,Uttar Pradesh,2533,385,88,11,7.13,4.43
+COV0073,2020-05-15,Wave 1,Alpha / Wild Type,Andhra Pradesh,1197,207,43,8,4.44,0.98
+COV0074,2020-05-17,Wave 1,Alpha / Wild Type,Tamil Nadu,558,84,13,1,4.67,0.32
+COV0075,2020-05-18,Wave 1,Alpha / Wild Type,Kerala,4702,678,130,22,7.46,4.96
+COV0076,2020-05-18,Wave 1,Alpha / Wild Type,Maharashtra,3652,633,123,19,7.16,2.96
+COV0077,2020-05-18,Wave 1,Alpha / Wild Type,Andhra Pradesh,1357,170,31,3,5.22,4.87
+COV0078,2020-05-18,Wave 1,Alpha / Wild Type,Gujarat,2992,370,67,8,7.65,3.19
+COV0079,2020-05-19,Wave 1,Alpha / Wild Type,Tamil Nadu,3245,465,114,14,7.28,1.63
+COV0080,2020-05-20,Wave 1,Alpha / Wild Type,Andhra Pradesh,930,118,29,4,5.18,0.37
+COV0081,2020-05-20,Wave 1,Alpha / Wild Type,Delhi,1867,255,38,6,4.89,4.7
+COV0082,2020-05-21,Wave 1,Alpha / Wild Type,Andhra Pradesh,1823,229,48,6,6.93,0.84
+COV0083,2020-05-21,Wave 1,Alpha / Wild Type,West Bengal,3197,512,126,13,7.36,2.22
+COV0084,2020-05-22,Wave 1,Alpha / Wild Type,Karnataka,1677,286,43,7,5.41,0.59
+COV0085,2020-05-22,Wave 1,Alpha / Wild Type,Rajasthan,2054,249,53,10,6.8,4.68
+COV0086,2020-05-23,Wave 1,Alpha / Wild Type,Tamil Nadu,2871,434,88,10,8.85,3.88
+COV0087,2020-05-23,Wave 1,Alpha / Wild Type,Maharashtra,1414,211,40,7,8.4,3.12
+COV0088,2020-05-23,Wave 1,Alpha / Wild Type,Maharashtra,2775,387,86,14,8.25,3.29
+COV0089,2020-05-24,Wave 1,Alpha / Wild Type,Andhra Pradesh,2310,375,68,10,8.11,2.3
+COV0090,2020-05-25,Wave 1,Alpha / Wild Type,Rajasthan,3881,533,127,12,4.43,1.04
+COV0091,2020-05-25,Wave 1,Alpha / Wild Type,Uttar Pradesh,3300,430,101,12,8.19,1.4
+COV0092,2020-05-26,Wave 1,Alpha / Wild Type,Kerala,2011,335,69,11,8.39,2.02
+COV0093,2020-05-26,Wave 1,Alpha / Wild Type,Rajasthan,2618,400,77,8,4.83,2.23
+COV0094,2020-05-26,Wave 1,Alpha / Wild Type,Andhra Pradesh,1930,258,45,8,8.65,2.03
+COV0095,2020-05-27,Wave 1,Alpha / Wild Type,Kerala,2803,476,117,13,7.65,4.69
+COV0096,2020-05-28,Wave 1,Alpha / Wild Type,Rajasthan,1778,291,58,9,6.17,1.23
+COV0097,2020-05-28,Wave 1,Alpha / Wild Type,Tamil Nadu,3339,519,78,12,8.57,3.06
+COV0098,2020-05-28,Wave 1,Alpha / Wild Type,Kerala,2904,408,75,13,6.26,1.12
+COV0099,2020-05-28,Wave 1,Alpha / Wild Type,Uttar Pradesh,2529,394,65,7,4.29,4.33
+COV0100,2020-05-29,Wave 1,Alpha / Wild Type,Kerala,1896,333,68,11,8.61,3.54
+COV0101,2020-05-30,Wave 1,Alpha / Wild Type,West Bengal,2570,364,62,7,4.7,3.11
+COV0102,2020-05-30,Wave 1,Alpha / Wild Type,Maharashtra,3277,575,99,16,5.11,1.61
+COV0103,2020-05-30,Wave 1,Alpha / Wild Type,Gujarat,1733,256,63,10,4.63,3.38
+COV0104,2020-06-01,Wave 1,Alpha / Wild Type,Uttar Pradesh,2571,406,98,10,8.69,3.44
+COV0105,2020-06-01,Wave 1,Alpha / Wild Type,Gujarat,2535,428,73,10,8.2,3.66
+COV0106,2020-06-03,Wave 1,Alpha / Wild Type,Uttar Pradesh,3227,543,134,23,5.97,2.95
+COV0107,2020-06-03,Wave 1,Alpha / Wild Type,Maharashtra,908,110,16,2,5.8,0.64
+COV0108,2020-06-04,Wave 1,Alpha / Wild Type,Rajasthan,2351,332,59,7,5.17,0.21
+COV0109,2020-06-05,Wave 1,Alpha / Wild Type,West Bengal,844,112,27,4,4.45,2.09
+COV0110,2020-06-05,Wave 1,Alpha / Wild Type,Tamil Nadu,3613,586,135,20,8.84,0.26
+COV0111,2020-06-05,Wave 1,Alpha / Wild Type,Uttar Pradesh,3662,581,124,16,4.36,2.05
+COV0112,2020-06-06,Wave 1,Alpha / Wild Type,Delhi,2513,442,83,9,7.09,0.57
+COV0113,2020-06-07,Wave 1,Alpha / Wild Type,Maharashtra,1179,165,25,2,8.16,1.37
+COV0114,2020-06-07,Wave 1,Alpha / Wild Type,Gujarat,2099,337,52,5,5.29,2.31
+COV0115,2020-06-07,Wave 1,Alpha / Wild Type,Maharashtra,1172,200,43,6,6.06,3.25
+COV0116,2020-06-08,Wave 1,Alpha / Wild Type,Delhi,2342,350,81,10,4.87,3.56
+COV0117,2020-06-10,Wave 1,Alpha / Wild Type,Uttar Pradesh,2424,409,71,8,7.34,4.65
+COV0118,2020-06-11,Wave 1,Alpha / Wild Type,West Bengal,1193,194,46,6,6.66,0.54
+COV0119,2020-06-11,Wave 1,Alpha / Wild Type,Maharashtra,3536,576,141,14,4.98,0.04
+COV0120,2020-06-11,Wave 1,Alpha / Wild Type,Rajasthan,2164,272,59,8,4.61,2.48
+COV0121,2020-06-13,Wave 1,Alpha / Wild Type,Tamil Nadu,707,87,15,2,7.74,0.92
+COV0122,2020-06-15,Wave 1,Alpha / Wild Type,Tamil Nadu,1271,176,36,4,7.01,3.53
+COV0123,2020-06-16,Wave 1,Alpha / Wild Type,West Bengal,950,146,22,2,6.79,1.72
+COV0124,2020-06-18,Wave 1,Alpha / Wild Type,Uttar Pradesh,2520,323,74,8,4.82,0.82
+COV0125,2020-06-18,Wave 1,Alpha / Wild Type,Delhi,3038,442,67,8,6.71,3.17
+COV0126,2020-06-19,Wave 1,Alpha / Wild Type,Delhi,2589,450,95,12,5.75,3.63
+COV0127,2020-06-19,Wave 1,Alpha / Wild Type,Maharashtra,1255,202,40,5,5.06,0.17
+COV0128,2020-06-19,Wave 1,Alpha / Wild Type,Karnataka,1771,241,57,11,4.74,2.31
+COV0129,2020-06-19,Wave 1,Alpha / Wild Type,Tamil Nadu,1620,223,35,5,4.31,2.55
+COV0130,2020-06-20,Wave 1,Alpha / Wild Type,Andhra Pradesh,883,110,27,4,6.98,0.34
+COV0131,2020-06-20,Wave 1,Alpha / Wild Type,West Bengal,2718,354,56,9,7.82,1.33
+COV0132,2020-06-20,Wave 1,Alpha / Wild Type,Uttar Pradesh,2397,402,76,14,6.67,0.79
+COV0133,2020-06-21,Wave 1,Alpha / Wild Type,Tamil Nadu,1238,155,36,4,4.93,0.2
+COV0134,2020-06-21,Wave 1,Alpha / Wild Type,Tamil Nadu,1631,203,40,7,7.54,0.25
+COV0135,2020-06-21,Wave 1,Alpha / Wild Type,Kerala,3792,606,122,16,8.39,1.96
+COV0136,2020-06-22,Wave 1,Alpha / Wild Type,Gujarat,1742,253,48,9,7.57,3.04
+COV0137,2020-06-22,Wave 1,Alpha / Wild Type,Karnataka,982,156,36,4,4.05,0.68
+COV0138,2020-06-23,Wave 1,Alpha / Wild Type,Kerala,2675,403,80,12,8.33,4.9
+COV0139,2020-06-23,Wave 1,Alpha / Wild Type,Andhra Pradesh,2506,395,86,12,7.14,2.92
+COV0140,2020-06-23,Wave 1,Alpha / Wild Type,Tamil Nadu,2992,416,101,19,6.87,3.16
+COV0141,2020-06-24,Wave 1,Alpha / Wild Type,Delhi,3267,437,73,8,4.93,3.9
+COV0142,2020-06-24,Wave 1,Alpha / Wild Type,Delhi,2396,300,73,11,5.53,1.98
+COV0143,2020-06-25,Wave 1,Alpha / Wild Type,Andhra Pradesh,3856,544,85,12,4.34,4.0
+COV0144,2020-06-27,Wave 1,Alpha / Wild Type,Karnataka,3505,422,83,8,4.59,0.59
+COV0145,2020-06-29,Wave 1,Alpha / Wild Type,Andhra Pradesh,2816,430,76,9,5.76,3.11
+COV0146,2020-06-30,Wave 1,Alpha / Wild Type,Maharashtra,1507,255,57,8,8.78,1.0
+COV0147,2020-07-01,Wave 1,Alpha / Wild Type,West Bengal,1521,184,29,5,4.89,3.26
+COV0148,2020-07-01,Wave 1,Alpha / Wild Type,West Bengal,1227,214,38,5,8.45,3.54
+COV0149,2020-07-01,Wave 1,Alpha / Wild Type,Gujarat,1734,291,51,6,8.79,0.04
+COV0150,2020-07-03,Wave 1,Alpha / Wild Type,Kerala,1488,201,35,4,8.02,2.7
+COV0151,2020-07-05,Wave 1,Alpha / Wild Type,Rajasthan,2788,355,65,12,5.12,1.86
+COV0152,2020-07-07,Wave 1,Alpha / Wild Type,Tamil Nadu,2754,396,95,18,4.22,3.81
+COV0153,2020-07-07,Wave 1,Alpha / Wild Type,Delhi,2177,319,55,7,5.14,0.37
+COV0154,2020-07-07,Wave 1,Alpha / Wild Type,Tamil Nadu,2429,363,63,11,6.23,2.57
+COV0155,2020-07-07,Wave 1,Alpha / Wild Type,Gujarat,1733,292,61,7,7.12,2.64
+COV0156,2020-07-08,Wave 1,Alpha / Wild Type,Gujarat,1939,233,42,5,5.98,3.48
+COV0157,2020-07-08,Wave 1,Alpha / Wild Type,Gujarat,532,70,13,1,4.26,3.84
+COV0158,2020-07-08,Wave 1,Alpha / Wild Type,West Bengal,4121,538,123,19,5.98,0.66
+COV0159,2020-07-08,Wave 1,Alpha / Wild Type,West Bengal,3901,691,154,23,7.06,2.1
+COV0160,2020-07-10,Wave 1,Alpha / Wild Type,Andhra Pradesh,1826,283,47,6,8.28,1.04
+COV0161,2020-07-11,Wave 1,Alpha / Wild Type,Gujarat,1645,250,57,10,5.59,0.55
+COV0162,2020-07-11,Wave 1,Alpha / Wild Type,Maharashtra,1446,199,48,8,4.7,4.34
+COV0163,2020-07-12,Wave 1,Alpha / Wild Type,Tamil Nadu,3168,395,67,11,4.38,4.26
+COV0164,2020-07-12,Wave 1,Alpha / Wild Type,Rajasthan,3518,555,86,15,5.59,0.0
+COV0165,2020-07-14,Wave 1,Alpha / Wild Type,West Bengal,2944,507,81,13,6.7,0.48
+COV0166,2020-07-14,Wave 1,Alpha / Wild Type,Maharashtra,1614,247,51,8,8.02,1.35
+COV0167,2020-07-17,Wave 1,Alpha / Wild Type,Delhi,1585,215,38,6,8.84,3.02
+COV0168,2020-07-17,Wave 1,Alpha / Wild Type,Kerala,2191,391,62,8,4.21,3.7
+COV0169,2020-07-17,Wave 1,Alpha / Wild Type,Tamil Nadu,2648,331,72,7,8.11,3.53
+COV0170,2020-07-17,Wave 1,Alpha / Wild Type,West Bengal,1054,154,27,3,4.97,0.29
+COV0171,2020-07-18,Wave 1,Alpha / Wild Type,Rajasthan,2576,322,61,8,5.3,3.62
+COV0172,2020-07-18,Wave 1,Alpha / Wild Type,Andhra Pradesh,966,123,20,2,7.2,0.91
+COV0173,2020-07-18,Wave 1,Alpha / Wild Type,Uttar Pradesh,3613,620,151,17,8.63,2.46
+COV0174,2020-07-19,Wave 1,Alpha / Wild Type,Kerala,1591,235,58,9,5.75,0.57
+COV0175,2020-07-19,Wave 1,Alpha / Wild Type,Delhi,3447,605,104,14,4.76,4.96
+COV0176,2020-07-19,Wave 1,Alpha / Wild Type,Tamil Nadu,1678,251,51,8,5.14,4.98
+COV0177,2020-07-20,Wave 1,Alpha / Wild Type,Kerala,2652,343,82,13,4.05,0.51
+COV0178,2020-07-21,Wave 1,Alpha / Wild Type,Delhi,1891,314,47,6,6.41,0.1
+COV0179,2020-07-21,Wave 1,Alpha / Wild Type,Rajasthan,2005,326,73,11,7.85,2.47
+COV0180,2020-07-22,Wave 1,Alpha / Wild Type,Uttar Pradesh,2783,489,115,12,4.13,1.88
+COV0181,2020-07-22,Wave 1,Alpha / Wild Type,Karnataka,1091,153,37,4,6.59,3.52
+COV0182,2020-07-22,Wave 1,Alpha / Wild Type,Andhra Pradesh,1865,227,48,6,8.32,2.37
+COV0183,2020-07-22,Wave 1,Alpha / Wild Type,Uttar Pradesh,1868,233,47,6,8.91,0.56
+COV0184,2020-07-23,Wave 1,Alpha / Wild Type,Tamil Nadu,2278,292,66,8,6.48,1.42
+COV0185,2020-07-24,Wave 1,Alpha / Wild Type,Delhi,2555,454,102,19,7.51,1.49
+COV0186,2020-07-24,Wave 1,Alpha / Wild Type,Kerala,1634,212,33,6,8.83,4.04
+COV0187,2020-07-25,Wave 1,Alpha / Wild Type,Tamil Nadu,1681,299,73,12,4.65,3.79
+COV0188,2020-07-26,Wave 1,Alpha / Wild Type,Karnataka,819,129,19,2,7.13,2.52
+COV0189,2020-07-26,Wave 1,Alpha / Wild Type,Gujarat,1549,231,43,7,7.52,0.02
+COV0190,2020-07-27,Wave 1,Alpha / Wild Type,Uttar Pradesh,1620,256,48,6,8.92,2.05
+COV0191,2020-07-27,Wave 1,Alpha / Wild Type,West Bengal,2179,365,66,9,4.06,0.36
+COV0192,2020-07-27,Wave 1,Alpha / Wild Type,Maharashtra,2318,416,85,15,8.72,4.25
+COV0193,2020-07-29,Wave 1,Alpha / Wild Type,Delhi,2177,386,92,11,4.35,0.5
+COV0194,2020-07-29,Wave 1,Alpha / Wild Type,West Bengal,3075,447,68,7,4.16,3.18
+COV0195,2020-07-30,Wave 1,Alpha / Wild Type,Andhra Pradesh,1928,318,62,11,7.64,3.88
+COV0196,2020-07-31,Wave 1,Alpha / Wild Type,Maharashtra,2319,345,81,12,5.88,1.43
+COV0197,2020-07-31,Wave 1,Alpha / Wild Type,Tamil Nadu,2737,460,84,15,4.4,4.47
+COV0198,2020-07-31,Wave 1,Alpha / Wild Type,Rajasthan,2602,324,51,9,4.96,1.62
+COV0199,2020-08-01,Wave 1,Alpha / Wild Type,Rajasthan,1877,253,50,6,8.94,4.72
+COV0200,2020-08-01,Wave 1,Alpha / Wild Type,Karnataka,3445,504,83,11,6.17,0.44
+COV0201,2020-08-02,Wave 1,Alpha / Wild Type,Uttar Pradesh,2184,375,87,11,8.14,0.19
+COV0202,2020-08-03,Wave 1,Alpha / Wild Type,Tamil Nadu,2267,370,73,13,8.5,2.11
+COV0203,2020-08-04,Wave 1,Alpha / Wild Type,Karnataka,1692,240,46,8,5.0,2.57
+COV0204,2020-08-04,Wave 1,Alpha / Wild Type,Maharashtra,2815,339,83,8,8.46,2.64
+COV0205,2020-08-04,Wave 1,Alpha / Wild Type,Rajasthan,2637,455,107,13,6.26,4.92
+COV0206,2020-08-05,Wave 1,Alpha / Wild Type,Kerala,4843,667,137,23,8.37,3.18
+COV0207,2020-08-05,Wave 1,Alpha / Wild Type,Rajasthan,3717,506,94,9,5.61,1.06
+COV0208,2020-08-05,Wave 1,Alpha / Wild Type,Kerala,2108,291,64,6,6.91,1.73
+COV0209,2020-08-06,Wave 1,Alpha / Wild Type,Rajasthan,1175,180,33,5,4.7,2.22
+COV0210,2020-08-06,Wave 1,Alpha / Wild Type,Rajasthan,1348,200,46,7,4.22,3.17
+COV0211,2020-08-06,Wave 1,Alpha / Wild Type,Karnataka,2365,378,87,15,7.99,2.18
+COV0212,2020-08-06,Wave 1,Alpha / Wild Type,Andhra Pradesh,2755,345,68,7,6.04,2.04
+COV0213,2020-08-07,Wave 1,Alpha / Wild Type,Karnataka,3538,478,88,10,8.54,2.92
+COV0214,2020-08-07,Wave 1,Alpha / Wild Type,Maharashtra,1501,234,37,4,8.55,3.35
+COV0215,2020-08-09,Wave 1,Alpha / Wild Type,Rajasthan,1129,197,48,7,5.79,3.94
+COV0216,2020-08-12,Wave 1,Alpha / Wild Type,Maharashtra,3267,507,100,16,4.32,2.9
+COV0217,2020-08-12,Wave 1,Alpha / Wild Type,Delhi,2111,326,53,9,7.18,1.94
+COV0218,2020-08-13,Wave 1,Alpha / Wild Type,West Bengal,5560,836,198,29,7.51,4.96
+COV0219,2020-08-13,Wave 1,Alpha / Wild Type,Gujarat,1222,209,51,7,5.35,3.22
+COV0220,2020-08-13,Wave 1,Alpha / Wild Type,Gujarat,646,82,19,3,7.4,3.95
+COV0221,2020-08-14,Wave 1,Alpha / Wild Type,Karnataka,1647,198,38,4,6.99,1.49
+COV0222,2020-08-14,Wave 1,Alpha / Wild Type,Tamil Nadu,2900,373,56,9,6.24,0.67
+COV0223,2020-08-14,Wave 1,Alpha / Wild Type,Kerala,3847,474,117,22,8.64,4.97
+COV0224,2020-08-14,Wave 1,Alpha / Wild Type,Delhi,1636,202,44,6,4.41,2.29
+COV0225,2020-08-14,Wave 1,Alpha / Wild Type,Andhra Pradesh,2273,291,58,10,7.7,3.49
+COV0226,2020-08-14,Wave 1,Alpha / Wild Type,Uttar Pradesh,2634,417,96,10,8.31,4.61
+COV0227,2020-08-14,Wave 1,Alpha / Wild Type,Kerala,1619,238,53,8,7.1,1.76
+COV0228,2020-08-14,Wave 1,Alpha / Wild Type,Rajasthan,1632,256,47,6,7.74,0.18
+COV0229,2020-08-14,Wave 1,Alpha / Wild Type,Gujarat,2512,451,109,17,6.11,3.18
+COV0230,2020-08-15,Wave 1,Alpha / Wild Type,Karnataka,3503,438,108,14,5.85,4.06
+COV0231,2020-08-15,Wave 1,Alpha / Wild Type,Kerala,1906,321,78,8,8.78,2.61
+COV0232,2020-08-15,Wave 1,Alpha / Wild Type,Andhra Pradesh,1989,356,83,9,8.6,4.35
+COV0233,2020-08-16,Wave 1,Alpha / Wild Type,Gujarat,3251,527,90,10,4.07,1.75
+COV0234,2020-08-17,Wave 1,Alpha / Wild Type,Andhra Pradesh,2829,457,93,12,8.07,3.42
+COV0235,2020-08-18,Wave 1,Alpha / Wild Type,Uttar Pradesh,3104,534,121,21,7.32,1.3
+COV0236,2020-08-19,Wave 1,Alpha / Wild Type,West Bengal,1694,256,49,6,7.06,0.7
+COV0237,2020-08-20,Wave 1,Alpha / Wild Type,Uttar Pradesh,2457,404,81,13,4.35,1.27
+COV0238,2020-08-21,Wave 1,Alpha / Wild Type,Uttar Pradesh,1775,300,61,9,5.21,0.47
+COV0239,2020-08-21,Wave 1,Alpha / Wild Type,West Bengal,1092,153,23,2,6.07,2.46
+COV0240,2020-08-21,Wave 1,Alpha / Wild Type,Andhra Pradesh,2400,380,72,12,5.0,4.45
+COV0241,2020-08-21,Wave 1,Alpha / Wild Type,Uttar Pradesh,2427,410,80,13,6.63,3.66
+COV0242,2020-08-21,Wave 1,Alpha / Wild Type,Delhi,2585,463,88,12,7.88,1.7
+COV0243,2020-08-21,Wave 1,Alpha / Wild Type,Andhra Pradesh,2119,289,69,8,4.72,2.45
+COV0244,2020-08-21,Wave 1,Alpha / Wild Type,Andhra Pradesh,1834,287,63,8,6.07,0.61
+COV0245,2020-08-23,Wave 1,Alpha / Wild Type,Karnataka,1144,183,37,4,6.24,2.3
+COV0246,2020-08-24,Wave 1,Alpha / Wild Type,Andhra Pradesh,1500,249,61,7,6.62,1.44
+COV0247,2020-08-25,Wave 1,Alpha / Wild Type,Rajasthan,1819,221,36,7,6.75,4.83
+COV0248,2020-08-25,Wave 1,Alpha / Wild Type,Karnataka,3703,538,99,13,5.32,1.03
+COV0249,2020-08-27,Wave 1,Alpha / Wild Type,Andhra Pradesh,1153,183,30,3,7.21,0.13
+COV0250,2020-08-29,Wave 1,Alpha / Wild Type,Andhra Pradesh,693,89,14,2,6.09,4.57
+COV0251,2020-08-29,Wave 1,Alpha / Wild Type,West Bengal,4155,608,95,9,8.81,4.18
+COV0252,2020-08-30,Wave 1,Alpha / Wild Type,Gujarat,1302,191,32,4,6.07,4.14
+COV0253,2020-08-30,Wave 1,Alpha / Wild Type,Uttar Pradesh,1516,258,38,6,8.85,2.19
+COV0254,2020-08-31,Wave 1,Alpha / Wild Type,West Bengal,1324,173,36,5,8.46,4.09
+COV0255,2020-09-01,Wave 1,Alpha / Wild Type,Gujarat,2384,328,80,10,6.15,4.36
+COV0256,2020-09-01,Wave 1,Alpha / Wild Type,West Bengal,1595,259,43,7,6.92,4.76
+COV0257,2020-09-01,Wave 1,Alpha / Wild Type,Delhi,3598,587,140,15,7.66,0.94
+COV0258,2020-09-02,Wave 1,Alpha / Wild Type,Delhi,3329,413,94,12,6.16,3.43
+COV0259,2020-09-02,Wave 1,Alpha / Wild Type,Karnataka,1633,260,42,6,7.08,0.42
+COV0260,2020-09-03,Wave 1,Alpha / Wild Type,Karnataka,2553,316,63,7,8.85,0.57
+COV0261,2020-09-04,Wave 1,Alpha / Wild Type,Tamil Nadu,3102,452,108,14,8.82,0.45
+COV0262,2020-09-05,Wave 1,Alpha / Wild Type,Kerala,1219,181,27,4,8.82,1.92
+COV0263,2020-09-05,Wave 1,Alpha / Wild Type,Rajasthan,1142,196,43,7,7.29,3.46
+COV0264,2020-09-06,Wave 1,Alpha / Wild Type,Gujarat,2095,297,72,13,7.49,3.57
+COV0265,2020-09-07,Wave 1,Alpha / Wild Type,Andhra Pradesh,385,65,12,2,6.83,1.34
+COV0266,2020-09-08,Wave 1,Alpha / Wild Type,Tamil Nadu,1857,259,57,10,4.91,1.85
+COV0267,2020-09-08,Wave 1,Alpha / Wild Type,Uttar Pradesh,2060,254,46,8,7.54,3.94
+COV0268,2020-09-08,Wave 1,Alpha / Wild Type,Uttar Pradesh,1213,199,39,5,5.97,2.3
+COV0269,2020-09-08,Wave 1,Alpha / Wild Type,Karnataka,2210,370,89,17,8.8,2.61
+COV0270,2020-09-09,Wave 1,Alpha / Wild Type,Uttar Pradesh,1833,274,50,8,5.2,0.38
+COV0271,2020-09-09,Wave 1,Alpha / Wild Type,Tamil Nadu,1264,218,45,6,6.06,3.48
+COV0272,2020-09-09,Wave 1,Alpha / Wild Type,Maharashtra,997,126,27,4,7.86,2.6
+COV0273,2020-09-09,Wave 1,Alpha / Wild Type,West Bengal,2435,356,79,13,4.79,3.05
+COV0274,2020-09-13,Wave 1,Alpha / Wild Type,Tamil Nadu,2853,384,72,9,5.78,3.6
+COV0275,2020-09-14,Wave 1,Alpha / Wild Type,Rajasthan,3655,655,108,17,5.9,4.85
+COV0276,2020-09-15,Wave 1,Alpha / Wild Type,Andhra Pradesh,1640,229,56,10,7.51,3.64
+COV0277,2020-09-16,Wave 1,Alpha / Wild Type,Rajasthan,1840,287,51,5,7.26,3.69
+COV0278,2020-09-17,Wave 1,Alpha / Wild Type,Tamil Nadu,613,100,24,2,7.32,3.71
+COV0279,2020-09-17,Wave 1,Alpha / Wild Type,West Bengal,2025,244,44,6,4.44,1.75
+COV0280,2020-09-17,Wave 1,Alpha / Wild Type,West Bengal,2707,389,70,7,5.14,1.23
+COV0281,2020-09-18,Wave 1,Alpha / Wild Type,Uttar Pradesh,1492,239,55,7,4.07,3.69
+COV0282,2020-09-18,Wave 1,Alpha / Wild Type,Tamil Nadu,789,105,16,1,5.69,4.01
+COV0283,2020-09-20,Wave 1,Alpha / Wild Type,West Bengal,3328,400,66,10,7.46,3.26
+COV0284,2020-09-21,Wave 1,Alpha / Wild Type,Delhi,1736,255,42,7,7.47,1.1
+COV0285,2020-09-21,Wave 1,Alpha / Wild Type,Tamil Nadu,2017,321,60,9,4.53,3.29
+COV0286,2020-09-22,Wave 1,Alpha / Wild Type,Rajasthan,2927,515,84,11,4.57,4.62
+COV0287,2020-09-22,Wave 1,Alpha / Wild Type,West Bengal,2826,439,83,8,5.68,4.01
+COV0288,2020-09-23,Wave 1,Alpha / Wild Type,Delhi,3188,436,102,13,8.55,3.77
+COV0289,2020-09-24,Wave 1,Alpha / Wild Type,Gujarat,2406,370,65,9,6.97,0.37
+COV0290,2020-09-24,Wave 1,Alpha / Wild Type,Tamil Nadu,2782,362,74,14,7.48,2.85
+COV0291,2020-09-26,Wave 1,Alpha / Wild Type,Maharashtra,2017,249,50,9,6.3,0.26
+COV0292,2020-09-27,Wave 1,Alpha / Wild Type,Rajasthan,2079,288,46,6,5.35,4.21
+COV0293,2020-09-27,Wave 1,Alpha / Wild Type,Rajasthan,2823,340,66,12,6.6,3.39
+COV0294,2020-09-29,Wave 1,Alpha / Wild Type,Maharashtra,1706,210,43,6,8.44,1.75
+COV0295,2020-09-29,Wave 1,Alpha / Wild Type,Andhra Pradesh,4325,621,95,14,6.72,1.14
+COV0296,2020-09-29,Wave 1,Alpha / Wild Type,West Bengal,1163,151,23,3,7.32,2.37
+COV0297,2020-10-01,Wave 1,Alpha / Wild Type,Tamil Nadu,1961,348,81,10,5.93,4.26
+COV0298,2020-10-01,Wave 1,Alpha / Wild Type,West Bengal,1027,156,25,3,6.71,3.81
+COV0299,2020-10-03,Wave 1,Alpha / Wild Type,Karnataka,1476,190,33,5,7.57,3.3
+COV0300,2020-10-03,Wave 1,Alpha / Wild Type,Karnataka,1771,238,39,4,5.43,0.87
+COV0301,2020-10-03,Wave 1,Alpha / Wild Type,Maharashtra,2284,383,84,10,6.95,1.8
+COV0302,2020-10-04,Wave 1,Alpha / Wild Type,Maharashtra,2076,350,81,10,7.47,3.86
+COV0303,2020-10-04,Wave 1,Alpha / Wild Type,Andhra Pradesh,1269,209,40,5,8.5,0.58
+COV0304,2020-10-04,Wave 1,Alpha / Wild Type,Maharashtra,2077,289,69,9,4.05,4.53
+COV0305,2020-10-07,Wave 1,Alpha / Wild Type,Uttar Pradesh,906,145,32,5,7.95,0.46
+COV0306,2020-10-07,Wave 1,Alpha / Wild Type,Uttar Pradesh,2014,306,61,6,7.28,4.11
+COV0307,2020-10-07,Wave 1,Alpha / Wild Type,Andhra Pradesh,1364,200,45,8,8.29,4.58
+COV0308,2020-10-09,Wave 1,Alpha / Wild Type,Kerala,2535,398,89,10,8.4,4.36
+COV0309,2020-10-09,Wave 1,Alpha / Wild Type,Tamil Nadu,2040,261,60,11,6.63,0.86
+COV0310,2020-10-11,Wave 1,Alpha / Wild Type,Kerala,2392,397,68,11,4.43,0.26
+COV0311,2020-10-12,Wave 1,Alpha / Wild Type,Tamil Nadu,1071,158,29,4,4.39,4.87
+COV0312,2020-10-12,Wave 1,Alpha / Wild Type,Kerala,1559,240,55,10,4.06,3.37
+COV0313,2020-10-12,Wave 1,Alpha / Wild Type,West Bengal,2251,355,84,14,8.02,1.41
+COV0314,2020-10-12,Wave 1,Alpha / Wild Type,Karnataka,4617,808,161,32,8.26,1.04
+COV0315,2020-10-12,Wave 1,Alpha / Wild Type,Karnataka,2933,491,98,15,6.46,0.98
+COV0316,2020-10-13,Wave 1,Alpha / Wild Type,Rajasthan,1518,211,41,5,7.2,4.89
+COV0317,2020-10-13,Wave 1,Alpha / Wild Type,Andhra Pradesh,2602,335,60,7,7.72,0.17
+COV0318,2020-10-15,Wave 1,Alpha / Wild Type,West Bengal,2502,364,55,8,7.31,0.59
+COV0319,2020-10-15,Wave 1,Alpha / Wild Type,Tamil Nadu,2213,284,65,10,6.67,4.47
+COV0320,2020-10-17,Wave 1,Alpha / Wild Type,Delhi,2602,324,61,7,7.47,1.73
+COV0321,2020-10-20,Wave 1,Alpha / Wild Type,Tamil Nadu,1117,141,26,4,5.92,2.86
+COV0322,2020-10-20,Wave 1,Alpha / Wild Type,Kerala,1826,238,37,4,6.3,1.03
+COV0323,2020-10-22,Wave 1,Alpha / Wild Type,Rajasthan,2063,327,67,9,8.93,3.03
+COV0324,2020-10-22,Wave 1,Alpha / Wild Type,Tamil Nadu,1868,226,40,7,6.59,1.74
+COV0325,2020-10-22,Wave 1,Alpha / Wild Type,Uttar Pradesh,1411,236,50,9,8.34,3.54
+COV0326,2020-10-22,Wave 1,Alpha / Wild Type,Uttar Pradesh,2081,352,82,9,7.29,2.36
+COV0327,2020-10-23,Wave 1,Alpha / Wild Type,Maharashtra,2217,382,72,8,4.14,3.78
+COV0328,2020-10-23,Wave 1,Alpha / Wild Type,West Bengal,1201,183,42,6,7.12,0.45
+COV0329,2020-10-24,Wave 1,Alpha / Wild Type,Uttar Pradesh,2573,454,90,12,4.82,3.93
+COV0330,2020-10-24,Wave 1,Alpha / Wild Type,Tamil Nadu,5008,772,118,22,7.45,3.38
+COV0331,2020-10-24,Wave 1,Alpha / Wild Type,Karnataka,1305,233,56,5,4.82,0.66
+COV0332,2020-10-25,Wave 1,Alpha / Wild Type,Tamil Nadu,1412,174,32,6,7.21,3.36
+COV0333,2020-10-26,Wave 1,Alpha / Wild Type,Delhi,3220,562,124,19,8.35,0.65
+COV0334,2020-10-26,Wave 1,Alpha / Wild Type,Rajasthan,2276,362,73,9,5.67,3.35
+COV0335,2020-10-26,Wave 1,Alpha / Wild Type,Gujarat,1576,275,46,5,8.86,0.9
+COV0336,2020-10-27,Wave 1,Alpha / Wild Type,Tamil Nadu,1356,237,52,8,8.31,1.37
+COV0337,2020-10-28,Wave 1,Alpha / Wild Type,Andhra Pradesh,2463,433,66,7,6.26,4.67
+COV0338,2020-10-28,Wave 1,Alpha / Wild Type,Karnataka,2548,420,95,15,7.83,4.23
+COV0339,2020-10-29,Wave 1,Alpha / Wild Type,Gujarat,3266,404,96,13,6.55,3.13
+COV0340,2020-11-01,Wave 1,Alpha / Wild Type,Karnataka,1724,264,39,6,4.18,3.73
+COV0341,2020-11-01,Wave 1,Alpha / Wild Type,Rajasthan,2546,370,85,15,4.03,2.55
+COV0342,2020-11-02,Wave 1,Alpha / Wild Type,Karnataka,2101,271,49,6,8.36,3.36
+COV0343,2020-11-03,Wave 1,Alpha / Wild Type,Uttar Pradesh,1858,274,49,8,6.51,1.16
+COV0344,2020-11-03,Wave 1,Alpha / Wild Type,Rajasthan,2597,451,78,15,4.3,4.67
+COV0345,2020-11-03,Wave 1,Alpha / Wild Type,Rajasthan,2416,415,70,7,5.35,0.29
+COV0346,2020-11-03,Wave 1,Alpha / Wild Type,Uttar Pradesh,1968,268,62,8,5.4,2.71
+COV0347,2020-11-03,Wave 1,Alpha / Wild Type,Kerala,1225,190,39,4,8.39,1.33
+COV0348,2020-11-03,Wave 1,Alpha / Wild Type,Delhi,902,132,21,3,5.08,3.1
+COV0349,2020-11-03,Wave 1,Alpha / Wild Type,Uttar Pradesh,1778,238,47,5,5.92,2.44
+COV0350,2020-11-03,Wave 1,Alpha / Wild Type,Maharashtra,3963,597,103,16,4.87,3.45
+COV0351,2020-11-05,Wave 1,Alpha / Wild Type,Maharashtra,2194,278,52,7,5.85,0.61
+COV0352,2020-11-06,Wave 1,Alpha / Wild Type,Maharashtra,1408,218,48,6,4.64,1.42
+COV0353,2020-11-07,Wave 1,Alpha / Wild Type,Maharashtra,1337,194,31,5,5.73,0.77
+COV0354,2020-11-07,Wave 1,Alpha / Wild Type,Rajasthan,2133,362,69,8,7.09,3.53
+COV0355,2020-11-07,Wave 1,Alpha / Wild Type,Maharashtra,2749,354,84,12,5.41,2.13
+COV0356,2020-11-09,Wave 1,Alpha / Wild Type,Tamil Nadu,2481,440,74,14,8.97,3.56
+COV0357,2020-11-09,Wave 1,Alpha / Wild Type,Delhi,3164,382,82,9,8.81,0.74
+COV0358,2020-11-10,Wave 1,Alpha / Wild Type,Gujarat,2102,347,57,8,7.59,1.24
+COV0359,2020-11-10,Wave 1,Alpha / Wild Type,Gujarat,1034,126,21,3,5.41,4.75
+COV0360,2020-11-11,Wave 1,Alpha / Wild Type,Karnataka,2909,493,80,10,7.72,0.8
+COV0361,2020-11-11,Wave 1,Alpha / Wild Type,Kerala,3516,589,107,19,8.53,1.38
+COV0362,2020-11-13,Wave 1,Alpha / Wild Type,Karnataka,1557,263,64,11,4.01,3.18
+COV0363,2020-11-13,Wave 1,Alpha / Wild Type,Tamil Nadu,2576,448,83,10,7.9,1.37
+COV0364,2020-11-16,Wave 1,Alpha / Wild Type,Kerala,3082,432,81,11,6.9,2.67
+COV0365,2020-11-16,Wave 1,Alpha / Wild Type,Kerala,1726,307,75,9,6.49,1.5
+COV0366,2020-11-18,Wave 1,Alpha / Wild Type,Delhi,2434,384,78,13,4.53,3.81
+COV0367,2020-11-19,Wave 1,Alpha / Wild Type,West Bengal,1517,260,50,8,7.77,0.52
+COV0368,2020-11-19,Wave 1,Alpha / Wild Type,Andhra Pradesh,1468,194,32,3,6.36,2.82
+COV0369,2020-11-19,Wave 1,Alpha / Wild Type,Tamil Nadu,5109,666,133,18,4.73,1.84
+COV0370,2020-11-21,Wave 1,Alpha / Wild Type,Maharashtra,2116,258,59,9,4.41,4.37
+COV0371,2020-11-21,Wave 1,Alpha / Wild Type,Karnataka,1647,287,47,7,6.06,1.74
+COV0372,2020-11-21,Wave 1,Alpha / Wild Type,Rajasthan,1765,260,51,5,4.4,3.64
+COV0373,2020-11-22,Wave 1,Alpha / Wild Type,Uttar Pradesh,2087,350,75,12,7.98,4.45
+COV0374,2020-11-22,Wave 1,Alpha / Wild Type,Andhra Pradesh,1576,255,39,7,4.02,1.23
+COV0375,2020-11-23,Wave 1,Alpha / Wild Type,Rajasthan,2583,391,86,9,6.84,1.28
+COV0376,2020-11-23,Wave 1,Alpha / Wild Type,Kerala,2114,259,46,8,8.45,2.28
+COV0377,2020-11-26,Wave 1,Alpha / Wild Type,West Bengal,2135,275,68,13,4.02,4.76
+COV0378,2020-11-26,Wave 1,Alpha / Wild Type,Rajasthan,3698,519,120,13,8.23,0.64
+COV0379,2020-11-27,Wave 1,Alpha / Wild Type,Kerala,3311,411,89,11,7.57,4.11
+COV0380,2020-11-29,Wave 1,Alpha / Wild Type,Uttar Pradesh,3125,486,117,14,7.11,3.16
+COV0381,2020-11-29,Wave 1,Alpha / Wild Type,West Bengal,2172,355,79,11,5.73,1.86
+COV0382,2020-11-30,Wave 1,Alpha / Wild Type,Tamil Nadu,1205,212,41,6,4.84,4.96
+COV0383,2020-12-01,Wave 1,Alpha / Wild Type,Rajasthan,1736,274,57,6,6.59,0.75
+COV0384,2020-12-03,Wave 1,Alpha / Wild Type,Delhi,4304,568,115,12,6.25,3.78
+COV0385,2020-12-05,Wave 1,Alpha / Wild Type,Kerala,1558,207,51,6,4.91,3.95
+COV0386,2020-12-05,Wave 1,Alpha / Wild Type,Andhra Pradesh,1126,193,29,5,6.64,4.7
+COV0387,2020-12-05,Wave 1,Alpha / Wild Type,Kerala,2733,404,63,9,8.79,0.88
+COV0388,2020-12-06,Wave 1,Alpha / Wild Type,Rajasthan,1561,201,31,5,6.3,0.29
+COV0389,2020-12-07,Wave 1,Alpha / Wild Type,Delhi,2607,416,101,17,5.07,0.16
+COV0390,2020-12-07,Wave 1,Alpha / Wild Type,West Bengal,1415,176,30,5,4.17,2.91
+COV0391,2020-12-09,Wave 1,Alpha / Wild Type,Tamil Nadu,2318,294,62,7,6.91,0.77
+COV0392,2020-12-12,Wave 1,Alpha / Wild Type,Delhi,2789,446,74,8,4.2,0.84
+COV0393,2020-12-13,Wave 1,Alpha / Wild Type,Uttar Pradesh,2248,273,45,7,7.29,0.14
+COV0394,2020-12-14,Wave 1,Alpha / Wild Type,Kerala,2144,262,41,7,4.36,0.36
+COV0395,2020-12-15,Wave 1,Alpha / Wild Type,West Bengal,2147,289,55,9,5.14,0.38
+COV0396,2020-12-15,Wave 1,Alpha / Wild Type,Delhi,3129,544,127,21,6.97,4.46
+COV0397,2020-12-16,Wave 1,Alpha / Wild Type,Andhra Pradesh,1721,294,60,9,4.57,4.3
+COV0398,2020-12-16,Wave 1,Alpha / Wild Type,West Bengal,2271,308,64,8,7.57,3.8
+COV0399,2020-12-16,Wave 1,Alpha / Wild Type,Kerala,1186,184,32,5,6.05,2.76
+COV0400,2020-12-16,Wave 1,Alpha / Wild Type,West Bengal,1505,189,32,5,8.28,4.15
+COV0401,2020-12-17,Wave 1,Alpha / Wild Type,Uttar Pradesh,662,110,25,3,8.88,0.63
+COV0402,2020-12-17,Wave 1,Alpha / Wild Type,Tamil Nadu,1994,307,54,9,4.94,1.62
+COV0403,2020-12-17,Wave 1,Alpha / Wild Type,Uttar Pradesh,1180,185,42,6,6.65,0.21
+COV0404,2020-12-18,Wave 1,Alpha / Wild Type,Gujarat,3546,545,123,18,4.06,0.05
+COV0405,2020-12-20,Wave 1,Alpha / Wild Type,Rajasthan,1834,297,45,8,4.26,2.71
+COV0406,2020-12-21,Wave 1,Alpha / Wild Type,Delhi,2451,295,52,8,8.91,3.16
+COV0407,2020-12-23,Wave 1,Alpha / Wild Type,West Bengal,2824,490,94,16,6.38,2.49
+COV0408,2020-12-24,Wave 1,Alpha / Wild Type,Delhi,1073,148,35,6,5.84,2.24
+COV0409,2020-12-27,Wave 1,Alpha / Wild Type,Rajasthan,2436,408,67,8,7.61,3.6
+COV0410,2020-12-27,Wave 1,Alpha / Wild Type,Tamil Nadu,1655,278,55,10,6.09,4.92
+COV0411,2020-12-27,Wave 1,Alpha / Wild Type,Maharashtra,1762,285,47,8,5.12,1.12
+COV0412,2020-12-28,Wave 1,Alpha / Wild Type,Maharashtra,2585,445,93,14,7.33,0.88
+COV0413,2020-12-28,Wave 1,Alpha / Wild Type,Karnataka,3985,706,157,21,5.48,1.75
+COV0414,2020-12-29,Wave 1,Alpha / Wild Type,Delhi,2979,494,94,13,7.69,1.19
+COV0415,2020-12-30,Wave 1,Alpha / Wild Type,Tamil Nadu,3394,603,113,14,8.34,1.12
+COV0416,2020-12-31,Wave 1,Alpha / Wild Type,Karnataka,3875,572,107,19,6.6,2.4
+COV0417,2020-12-31,Wave 1,Alpha / Wild Type,Maharashtra,2237,268,48,7,8.87,4.24
+COV0418,2020-12-31,Wave 1,Alpha / Wild Type,West Bengal,2107,325,68,9,7.68,4.67
+COV0419,2020-12-31,Wave 1,Alpha / Wild Type,Maharashtra,2925,416,66,10,4.18,2.33
+COV0420,2021-03-01,Wave 2,Delta,Maharashtra,6693,1576,501,153,21.3,16.7
+COV0421,2021-03-02,Wave 2,Delta,Delhi,7091,1662,537,164,24.11,30.52
+COV0422,2021-03-02,Wave 2,Delta,Tamil Nadu,4639,1099,325,102,20.54,27.72
+COV0423,2021-03-03,Wave 2,Delta,West Bengal,6616,1548,455,140,18.62,31.54
+COV0424,2021-03-04,Wave 2,Delta,Kerala,7084,1524,472,144,17.45,27.53
+COV0425,2021-03-04,Wave 2,Delta,West Bengal,4033,1142,377,125,12.78,27.3
+COV0426,2021-03-04,Wave 2,Delta,Tamil Nadu,8437,2213,582,151,14.62,32.72
+COV0427,2021-03-05,Wave 2,Delta,Andhra Pradesh,6196,1837,468,157,19.5,24.1
+COV0428,2021-03-05,Wave 2,Delta,Tamil Nadu,5859,1731,597,158,12.56,14.48
+COV0429,2021-03-06,Wave 2,Delta,Karnataka,8090,1623,440,134,17.35,20.06
+COV0430,2021-03-06,Wave 2,Delta,Andhra Pradesh,7997,1894,619,201,17.2,33.68
+COV0431,2021-03-06,Wave 2,Delta,Karnataka,5654,1460,483,126,15.97,20.07
+COV0432,2021-03-07,Wave 2,Delta,Andhra Pradesh,7576,2217,647,146,12.51,24.35
+COV0433,2021-03-07,Wave 2,Delta,West Bengal,7743,2213,718,198,19.94,14.01
+COV0434,2021-03-07,Wave 2,Delta,Kerala,5527,1652,417,124,20.57,27.2
+COV0435,2021-03-07,Wave 2,Delta,Delhi,6388,1329,457,145,19.63,30.71
+COV0436,2021-03-07,Wave 2,Delta,Uttar Pradesh,8297,2460,657,199,15.19,27.94
+COV0437,2021-03-08,Wave 2,Delta,Karnataka,5634,1186,338,92,20.79,26.45
+COV0438,2021-03-08,Wave 2,Delta,Kerala,6000,1232,396,111,23.04,19.58
+COV0439,2021-03-08,Wave 2,Delta,Maharashtra,4577,1162,389,134,19.35,22.86
+COV0440,2021-03-09,Wave 2,Delta,Andhra Pradesh,7033,1636,466,138,15.56,10.67
+COV0441,2021-03-11,Wave 2,Delta,Maharashtra,8261,1811,536,135,23.89,18.39
+COV0442,2021-03-11,Wave 2,Delta,Uttar Pradesh,8435,2301,754,177,12.0,27.8
+COV0443,2021-03-11,Wave 2,Delta,Andhra Pradesh,13444,2711,938,211,13.86,10.35
+COV0444,2021-03-11,Wave 2,Delta,Karnataka,6976,2055,686,177,13.0,14.25
+COV0445,2021-03-12,Wave 2,Delta,Andhra Pradesh,8781,1913,611,152,13.53,14.13
+COV0446,2021-03-12,Wave 2,Delta,Uttar Pradesh,6120,1765,456,132,23.87,19.7
+COV0447,2021-03-13,Wave 2,Delta,Gujarat,5010,1350,389,127,20.57,29.91
+COV0448,2021-03-13,Wave 2,Delta,Gujarat,5387,1385,457,145,14.0,13.73
+COV0449,2021-03-14,Wave 2,Delta,Tamil Nadu,6834,1567,474,147,23.7,29.8
+COV0450,2021-03-14,Wave 2,Delta,Gujarat,6884,1743,506,122,24.71,31.33
+COV0451,2021-03-14,Wave 2,Delta,Uttar Pradesh,6470,1780,612,188,16.72,33.45
+COV0452,2021-03-14,Wave 2,Delta,Rajasthan,6631,1978,504,117,21.37,17.05
+COV0453,2021-03-16,Wave 2,Delta,Andhra Pradesh,6574,1731,557,141,21.35,10.7
+COV0454,2021-03-16,Wave 2,Delta,Karnataka,10802,3076,1060,355,21.61,16.94
+COV0455,2021-03-16,Wave 2,Delta,Kerala,6869,1551,459,108,24.06,31.69
+COV0456,2021-03-17,Wave 2,Delta,Gujarat,8357,2096,618,158,24.47,13.57
+COV0457,2021-03-17,Wave 2,Delta,Uttar Pradesh,4431,1062,353,85,12.4,15.11
+COV0458,2021-03-18,Wave 2,Delta,Kerala,3711,777,258,87,20.45,12.59
+COV0459,2021-03-18,Wave 2,Delta,Uttar Pradesh,8221,2034,696,159,15.65,18.75
+COV0460,2021-03-19,Wave 2,Delta,Karnataka,7015,2062,551,183,21.59,16.32
+COV0461,2021-03-19,Wave 2,Delta,Karnataka,6537,1450,501,150,19.24,20.39
+COV0462,2021-03-19,Wave 2,Delta,Uttar Pradesh,7147,2120,730,192,19.42,32.74
+COV0463,2021-03-19,Wave 2,Delta,West Bengal,7817,2120,567,142,18.43,32.87
+COV0464,2021-03-20,Wave 2,Delta,West Bengal,5791,1636,523,146,12.72,20.67
+COV0465,2021-03-20,Wave 2,Delta,Uttar Pradesh,3771,1057,278,82,18.57,13.6
+COV0466,2021-03-20,Wave 2,Delta,Gujarat,7535,2109,644,210,20.21,29.61
+COV0467,2021-03-21,Wave 2,Delta,Delhi,8438,2091,716,188,18.05,10.34
+COV0468,2021-03-21,Wave 2,Delta,Andhra Pradesh,7791,2234,743,223,12.98,12.81
+COV0469,2021-03-21,Wave 2,Delta,West Bengal,4638,993,304,74,15.62,15.47
+COV0470,2021-03-21,Wave 2,Delta,Uttar Pradesh,10036,2494,764,259,22.41,21.28
+COV0471,2021-03-22,Wave 2,Delta,Karnataka,4130,922,305,80,22.76,10.01
+COV0472,2021-03-22,Wave 2,Delta,Delhi,6126,1232,405,105,12.52,24.71
+COV0473,2021-03-22,Wave 2,Delta,Kerala,6983,1493,458,152,19.58,27.95
+COV0474,2021-03-22,Wave 2,Delta,West Bengal,7720,2264,689,169,20.02,28.57
+COV0475,2021-03-23,Wave 2,Delta,Kerala,7741,1879,590,186,15.02,20.13
+COV0476,2021-03-24,Wave 2,Delta,Maharashtra,5903,1358,407,92,18.38,33.18
+COV0477,2021-03-24,Wave 2,Delta,Delhi,4123,1102,343,115,13.02,18.27
+COV0478,2021-03-24,Wave 2,Delta,Delhi,8281,1982,663,188,18.13,22.26
+COV0479,2021-03-24,Wave 2,Delta,Gujarat,6640,1957,516,164,13.41,34.53
+COV0480,2021-03-26,Wave 2,Delta,Tamil Nadu,4510,949,310,100,21.98,12.85
+COV0481,2021-03-26,Wave 2,Delta,Gujarat,5828,1427,439,129,16.32,17.89
+COV0482,2021-03-27,Wave 2,Delta,Gujarat,8553,2345,598,197,14.58,31.86
+COV0483,2021-03-27,Wave 2,Delta,Rajasthan,4877,1121,333,80,16.61,20.0
+COV0484,2021-03-27,Wave 2,Delta,Tamil Nadu,11912,2477,728,175,14.4,15.06
+COV0485,2021-03-28,Wave 2,Delta,Tamil Nadu,7001,2010,618,163,22.44,23.51
+COV0486,2021-03-28,Wave 2,Delta,Gujarat,4335,961,303,85,12.07,30.11
+COV0487,2021-03-28,Wave 2,Delta,Gujarat,10187,2463,703,208,19.48,14.04
+COV0488,2021-03-30,Wave 2,Delta,Tamil Nadu,9662,2548,845,190,18.48,27.23
+COV0489,2021-03-30,Wave 2,Delta,Kerala,11909,2949,852,285,23.62,18.4
+COV0490,2021-03-30,Wave 2,Delta,Delhi,7908,1664,486,157,13.84,13.26
+COV0491,2021-03-30,Wave 2,Delta,Uttar Pradesh,6878,1660,479,146,17.75,26.21
+COV0492,2021-03-31,Wave 2,Delta,Karnataka,11602,3094,908,312,21.35,33.25
+COV0493,2021-03-31,Wave 2,Delta,Uttar Pradesh,6557,1352,347,102,19.36,31.95
+COV0494,2021-03-31,Wave 2,Delta,Kerala,9198,2201,654,216,16.42,31.74
+COV0495,2021-03-31,Wave 2,Delta,Karnataka,5428,1610,473,123,18.84,27.19
+COV0496,2021-04-01,Wave 2,Delta,West Bengal,8444,1763,563,150,17.62,10.78
+COV0497,2021-04-01,Wave 2,Delta,Maharashtra,6240,1827,547,180,17.8,27.71
+COV0498,2021-04-02,Wave 2,Delta,Gujarat,8690,2586,744,241,17.65,31.74
+COV0499,2021-04-02,Wave 2,Delta,Karnataka,9867,2480,696,204,16.23,10.98
+COV0500,2021-04-02,Wave 2,Delta,Gujarat,9517,2213,656,156,24.8,15.23
+COV0501,2021-04-02,Wave 2,Delta,Kerala,5939,1692,456,107,24.53,12.7
+COV0502,2021-04-04,Wave 2,Delta,Delhi,6349,1301,380,124,22.47,15.61
+COV0503,2021-04-04,Wave 2,Delta,Rajasthan,4666,1347,380,128,24.95,30.64
+COV0504,2021-04-05,Wave 2,Delta,Rajasthan,7799,2282,791,232,13.86,19.36
+COV0505,2021-04-06,Wave 2,Delta,Karnataka,7100,1867,547,151,16.03,29.05
+COV0506,2021-04-07,Wave 2,Delta,Maharashtra,9021,2195,767,224,16.18,15.5
+COV0507,2021-04-07,Wave 2,Delta,Gujarat,9191,1932,558,162,18.54,14.85
+COV0508,2021-04-08,Wave 2,Delta,Delhi,6750,1871,499,134,16.51,20.8
+COV0509,2021-04-08,Wave 2,Delta,Uttar Pradesh,9105,2578,900,217,20.99,26.86
+COV0510,2021-04-08,Wave 2,Delta,Rajasthan,13885,3532,1128,323,24.87,25.28
+COV0511,2021-04-08,Wave 2,Delta,Uttar Pradesh,5992,1418,366,107,22.99,29.9
+COV0512,2021-04-09,Wave 2,Delta,Maharashtra,5489,1603,407,104,14.7,15.95
+COV0513,2021-04-09,Wave 2,Delta,Andhra Pradesh,3855,962,267,84,12.31,24.62
+COV0514,2021-04-09,Wave 2,Delta,Gujarat,9732,2076,650,153,19.52,27.34
+COV0515,2021-04-10,Wave 2,Delta,West Bengal,6686,1958,615,160,18.83,11.65
+COV0516,2021-04-10,Wave 2,Delta,Tamil Nadu,4988,1007,330,98,21.1,30.95
+COV0517,2021-04-10,Wave 2,Delta,Gujarat,6037,1776,552,181,21.23,12.81
+COV0518,2021-04-11,Wave 2,Delta,Maharashtra,7197,1548,460,137,19.56,20.04
+COV0519,2021-04-11,Wave 2,Delta,Tamil Nadu,3776,1028,289,97,13.65,14.46
+COV0520,2021-04-12,Wave 2,Delta,Uttar Pradesh,4644,1392,410,109,17.21,12.88
+COV0521,2021-04-12,Wave 2,Delta,Tamil Nadu,6321,1692,495,155,22.72,13.66
+COV0522,2021-04-12,Wave 2,Delta,Rajasthan,6357,1669,441,144,15.06,26.31
+COV0523,2021-04-13,Wave 2,Delta,Maharashtra,8094,2211,686,210,13.05,33.79
+COV0524,2021-04-14,Wave 2,Delta,Andhra Pradesh,7523,2028,654,214,24.67,34.39
+COV0525,2021-04-14,Wave 2,Delta,Uttar Pradesh,9672,2836,897,293,12.17,23.55
+COV0526,2021-04-15,Wave 2,Delta,Kerala,12804,3794,1091,325,13.04,27.08
+COV0527,2021-04-15,Wave 2,Delta,Kerala,8121,1783,449,149,19.5,32.27
+COV0528,2021-04-15,Wave 2,Delta,Andhra Pradesh,7151,2079,677,201,20.5,32.23
+COV0529,2021-04-16,Wave 2,Delta,Maharashtra,8358,2083,612,161,17.13,23.25
+COV0530,2021-04-16,Wave 2,Delta,Gujarat,9454,1984,513,130,23.37,13.22
+COV0531,2021-04-16,Wave 2,Delta,West Bengal,5057,1378,360,98,23.52,11.18
+COV0532,2021-04-17,Wave 2,Delta,Uttar Pradesh,7242,1568,451,135,24.61,28.19
+COV0533,2021-04-17,Wave 2,Delta,Gujarat,5680,1669,474,165,18.31,14.48
+COV0534,2021-04-18,Wave 2,Delta,Kerala,7362,2103,546,170,16.49,10.17
+COV0535,2021-04-19,Wave 2,Delta,Uttar Pradesh,2987,834,214,60,19.29,25.71
+COV0536,2021-04-19,Wave 2,Delta,West Bengal,6993,1532,485,146,19.83,22.24
+COV0537,2021-04-19,Wave 2,Delta,West Bengal,5776,1603,536,130,17.59,14.14
+COV0538,2021-04-19,Wave 2,Delta,Delhi,4189,991,257,82,24.56,34.25
+COV0539,2021-04-20,Wave 2,Delta,Kerala,8774,2091,567,157,12.63,30.51
+COV0540,2021-04-20,Wave 2,Delta,Andhra Pradesh,5568,1644,464,123,18.57,33.53
+COV0541,2021-04-20,Wave 2,Delta,Andhra Pradesh,6741,1952,508,155,23.79,14.22
+COV0542,2021-04-21,Wave 2,Delta,Andhra Pradesh,6270,1364,475,131,18.91,31.84
+COV0543,2021-04-22,Wave 2,Delta,Gujarat,9138,2707,679,212,21.18,25.57
+COV0544,2021-04-23,Wave 2,Delta,Karnataka,9269,2452,725,209,12.45,25.97
+COV0545,2021-04-24,Wave 2,Delta,Delhi,7514,1697,497,156,12.12,24.74
+COV0546,2021-04-24,Wave 2,Delta,Karnataka,7807,1901,530,154,13.73,27.29
+COV0547,2021-04-24,Wave 2,Delta,Tamil Nadu,9167,1961,492,143,24.69,19.23
+COV0548,2021-04-24,Wave 2,Delta,Tamil Nadu,4393,1202,343,105,15.52,12.03
+COV0549,2021-04-24,Wave 2,Delta,West Bengal,6310,1557,461,147,14.01,22.18
+COV0550,2021-04-25,Wave 2,Delta,Tamil Nadu,5342,1317,354,110,19.23,18.97
+COV0551,2021-04-25,Wave 2,Delta,Maharashtra,7093,1655,499,122,22.47,14.64
+COV0552,2021-04-26,Wave 2,Delta,Karnataka,5748,1509,499,114,16.35,17.84
+COV0553,2021-04-26,Wave 2,Delta,Uttar Pradesh,10608,2270,719,216,21.65,14.25
+COV0554,2021-04-26,Wave 2,Delta,Tamil Nadu,6700,1964,514,175,20.89,23.29
+COV0555,2021-04-26,Wave 2,Delta,Gujarat,8299,2328,658,162,13.1,21.67
+COV0556,2021-04-27,Wave 2,Delta,Uttar Pradesh,9608,2491,626,197,16.21,26.63
+COV0557,2021-04-27,Wave 2,Delta,Rajasthan,4962,1247,378,100,16.6,30.71
+COV0558,2021-04-27,Wave 2,Delta,Delhi,8032,2150,684,206,15.46,10.98
+COV0559,2021-04-27,Wave 2,Delta,Uttar Pradesh,7393,1919,621,153,22.94,10.76
+COV0560,2021-04-28,Wave 2,Delta,Maharashtra,10485,2319,635,162,17.34,15.86
+COV0561,2021-04-28,Wave 2,Delta,Rajasthan,9219,2137,731,166,18.31,32.82
+COV0562,2021-04-29,Wave 2,Delta,West Bengal,4737,1409,433,114,20.43,11.71
+COV0563,2021-04-29,Wave 2,Delta,Tamil Nadu,5699,1496,460,145,20.78,15.15
+COV0564,2021-04-29,Wave 2,Delta,Rajasthan,7981,1770,597,150,15.42,10.02
+COV0565,2021-04-29,Wave 2,Delta,Karnataka,5936,1484,506,120,20.4,15.82
+COV0566,2021-04-30,Wave 2,Delta,Uttar Pradesh,3944,1090,317,96,15.38,13.99
+COV0567,2021-04-30,Wave 2,Delta,Kerala,4739,1219,386,123,23.21,17.85
+COV0568,2021-05-01,Wave 2,Delta,Karnataka,6425,1293,389,124,24.15,32.73
+COV0569,2021-05-01,Wave 2,Delta,West Bengal,9556,2631,887,252,21.49,25.48
+COV0570,2021-05-01,Wave 2,Delta,Uttar Pradesh,5505,1633,480,122,22.38,18.16
+COV0571,2021-05-01,Wave 2,Delta,Uttar Pradesh,4923,1018,273,79,15.79,20.43
+COV0572,2021-05-01,Wave 2,Delta,Tamil Nadu,5657,1287,404,106,24.97,16.59
+COV0573,2021-05-02,Wave 2,Delta,Karnataka,9451,1946,604,192,18.8,15.67
+COV0574,2021-05-02,Wave 2,Delta,Uttar Pradesh,7068,1472,370,89,23.58,16.04
+COV0575,2021-05-02,Wave 2,Delta,West Bengal,10051,2311,726,216,21.05,19.06
+COV0576,2021-05-02,Wave 2,Delta,Tamil Nadu,6638,1773,572,168,14.69,22.61
+COV0577,2021-05-02,Wave 2,Delta,West Bengal,6283,1864,478,145,12.96,19.39
+COV0578,2021-05-02,Wave 2,Delta,Andhra Pradesh,6252,1756,592,153,23.16,31.43
+COV0579,2021-05-03,Wave 2,Delta,Rajasthan,7391,1689,557,194,12.39,32.43
+COV0580,2021-05-03,Wave 2,Delta,Delhi,7867,1646,486,131,23.27,16.1
+COV0581,2021-05-03,Wave 2,Delta,Uttar Pradesh,5416,1380,397,118,17.05,16.01
+COV0582,2021-05-03,Wave 2,Delta,Delhi,4870,1080,334,84,20.61,30.37
+COV0583,2021-05-04,Wave 2,Delta,Maharashtra,9113,1858,468,150,13.75,21.69
+COV0584,2021-05-04,Wave 2,Delta,Delhi,5341,1291,389,89,24.8,26.66
+COV0585,2021-05-04,Wave 2,Delta,Gujarat,8544,2179,578,181,19.8,28.28
+COV0586,2021-05-04,Wave 2,Delta,Rajasthan,5332,1136,352,116,12.58,28.35
+COV0587,2021-05-05,Wave 2,Delta,Andhra Pradesh,9781,2695,796,217,24.15,16.27
+COV0588,2021-05-06,Wave 2,Delta,Gujarat,8998,2392,648,215,23.52,14.92
+COV0589,2021-05-06,Wave 2,Delta,Gujarat,4811,1082,278,85,19.74,20.38
+COV0590,2021-05-06,Wave 2,Delta,Uttar Pradesh,5335,1429,365,81,17.09,27.43
+COV0591,2021-05-07,Wave 2,Delta,Kerala,6098,1636,506,160,16.02,21.2
+COV0592,2021-05-07,Wave 2,Delta,Karnataka,5865,1258,424,122,18.07,12.67
+COV0593,2021-05-08,Wave 2,Delta,West Bengal,6608,1972,628,158,22.38,12.68
+COV0594,2021-05-08,Wave 2,Delta,Tamil Nadu,10299,2984,1016,235,24.17,30.64
+COV0595,2021-05-08,Wave 2,Delta,Kerala,4819,1330,374,102,14.73,34.41
+COV0596,2021-05-09,Wave 2,Delta,West Bengal,5736,1288,361,105,19.64,20.66
+COV0597,2021-05-09,Wave 2,Delta,Uttar Pradesh,6778,1464,462,159,19.31,27.87
+COV0598,2021-05-09,Wave 2,Delta,Kerala,4327,956,309,80,18.58,14.06
+COV0599,2021-05-09,Wave 2,Delta,Karnataka,6596,1957,629,216,17.55,21.88
+COV0600,2021-05-09,Wave 2,Delta,Gujarat,3331,946,330,110,16.83,14.88
+COV0601,2021-05-10,Wave 2,Delta,Rajasthan,7452,2121,543,143,12.87,34.38
+COV0602,2021-05-10,Wave 2,Delta,Maharashtra,6256,1517,465,103,12.45,21.15
+COV0603,2021-05-10,Wave 2,Delta,Kerala,4999,1128,322,99,12.81,15.26
+COV0604,2021-05-10,Wave 2,Delta,Andhra Pradesh,7884,1671,429,134,24.07,20.76
+COV0605,2021-05-10,Wave 2,Delta,Andhra Pradesh,5302,1326,374,118,12.48,21.87
+COV0606,2021-05-11,Wave 2,Delta,Delhi,5951,1543,478,147,19.48,20.73
+COV0607,2021-05-11,Wave 2,Delta,Tamil Nadu,4092,1028,289,85,24.94,20.88
+COV0608,2021-05-11,Wave 2,Delta,Gujarat,6903,1900,500,145,19.1,12.24
+COV0609,2021-05-11,Wave 2,Delta,West Bengal,5290,1538,441,140,23.66,31.15
+COV0610,2021-05-12,Wave 2,Delta,Gujarat,6155,1731,532,159,22.16,27.58
+COV0611,2021-05-12,Wave 2,Delta,Rajasthan,7823,1972,506,135,23.97,24.61
+COV0612,2021-05-12,Wave 2,Delta,Gujarat,7157,1790,610,191,19.57,29.95
+COV0613,2021-05-12,Wave 2,Delta,Uttar Pradesh,5670,1606,420,94,17.69,31.1
+COV0614,2021-05-13,Wave 2,Delta,Maharashtra,7521,1788,462,122,24.76,25.74
+COV0615,2021-05-13,Wave 2,Delta,Kerala,5231,1399,469,161,20.17,14.6
+COV0616,2021-05-13,Wave 2,Delta,Uttar Pradesh,6529,1484,443,102,17.97,17.66
+COV0617,2021-05-14,Wave 2,Delta,Gujarat,8290,1979,550,142,24.78,26.07
+COV0618,2021-05-14,Wave 2,Delta,Rajasthan,9658,2109,539,159,22.92,10.44
+COV0619,2021-05-15,Wave 2,Delta,Gujarat,7434,1698,531,148,18.27,28.94
+COV0620,2021-05-15,Wave 2,Delta,Andhra Pradesh,10036,2637,709,169,24.19,32.94
+COV0621,2021-05-16,Wave 2,Delta,West Bengal,7856,2024,599,141,24.75,15.37
+COV0622,2021-05-16,Wave 2,Delta,Rajasthan,5193,1070,342,75,17.32,18.23
+COV0623,2021-05-17,Wave 2,Delta,Gujarat,7093,1831,598,163,23.44,26.22
+COV0624,2021-05-17,Wave 2,Delta,Kerala,10600,2396,601,182,18.64,21.14
+COV0625,2021-05-17,Wave 2,Delta,Rajasthan,5797,1456,434,117,22.91,13.63
+COV0626,2021-05-17,Wave 2,Delta,Uttar Pradesh,8045,2265,664,214,19.74,32.16
+COV0627,2021-05-18,Wave 2,Delta,Tamil Nadu,5888,1649,441,103,23.49,18.57
+COV0628,2021-05-18,Wave 2,Delta,Uttar Pradesh,11064,2793,895,226,17.81,13.09
+COV0629,2021-05-18,Wave 2,Delta,Maharashtra,10955,2209,753,192,22.66,34.98
+COV0630,2021-05-18,Wave 2,Delta,West Bengal,7753,1918,543,160,23.56,24.23
+COV0631,2021-05-19,Wave 2,Delta,West Bengal,4794,1187,371,121,22.19,16.93
+COV0632,2021-05-19,Wave 2,Delta,Kerala,7959,1692,489,117,21.55,15.22
+COV0633,2021-05-19,Wave 2,Delta,Rajasthan,8034,2260,719,168,15.76,17.75
+COV0634,2021-05-20,Wave 2,Delta,Uttar Pradesh,7509,1649,447,100,16.19,23.99
+COV0635,2021-05-21,Wave 2,Delta,West Bengal,6680,1639,534,126,14.55,33.79
+COV0636,2021-05-21,Wave 2,Delta,Delhi,8393,2151,672,223,19.63,24.52
+COV0637,2021-05-22,Wave 2,Delta,Maharashtra,8560,2511,703,226,21.96,27.29
+COV0638,2021-05-22,Wave 2,Delta,Gujarat,8305,2447,637,152,24.28,28.41
+COV0639,2021-05-22,Wave 2,Delta,Rajasthan,7357,2043,555,133,17.28,33.16
+COV0640,2021-05-22,Wave 2,Delta,Delhi,8510,1877,602,134,17.45,29.4
+COV0641,2021-05-23,Wave 2,Delta,Delhi,9485,2210,677,223,14.62,33.36
+COV0642,2021-05-23,Wave 2,Delta,Karnataka,5921,1582,526,161,22.72,19.92
+COV0643,2021-05-23,Wave 2,Delta,Tamil Nadu,6172,1746,560,130,22.91,26.78
+COV0644,2021-05-24,Wave 2,Delta,Delhi,5740,1309,349,94,22.42,19.8
+COV0645,2021-05-24,Wave 2,Delta,Delhi,6327,1767,608,183,21.64,30.13
+COV0646,2021-05-25,Wave 2,Delta,West Bengal,3620,1073,308,78,15.17,21.44
+COV0647,2021-05-25,Wave 2,Delta,Tamil Nadu,7443,2013,589,163,20.44,33.41
+COV0648,2021-05-25,Wave 2,Delta,Kerala,11180,2776,926,247,23.18,20.17
+COV0649,2021-05-26,Wave 2,Delta,Rajasthan,8989,2498,628,204,12.52,32.25
+COV0650,2021-05-26,Wave 2,Delta,Maharashtra,5549,1418,387,110,21.51,33.95
+COV0651,2021-05-26,Wave 2,Delta,Maharashtra,8704,2354,763,235,15.28,31.83
+COV0652,2021-05-27,Wave 2,Delta,Tamil Nadu,6883,1916,516,168,20.43,20.47
+COV0653,2021-05-27,Wave 2,Delta,Gujarat,5099,1171,384,108,14.96,14.15
+COV0654,2021-05-27,Wave 2,Delta,Andhra Pradesh,4259,928,306,80,21.5,20.5
+COV0655,2021-05-28,Wave 2,Delta,Karnataka,8214,1683,464,130,14.95,28.6
+COV0656,2021-05-28,Wave 2,Delta,Rajasthan,4115,1230,391,134,13.85,19.55
+COV0657,2021-05-29,Wave 2,Delta,Andhra Pradesh,8490,1981,516,129,24.34,17.63
+COV0658,2021-05-29,Wave 2,Delta,Delhi,9667,2219,554,141,14.83,26.55
+COV0659,2021-05-30,Wave 2,Delta,Kerala,5463,1280,386,107,23.44,22.64
+COV0660,2021-05-30,Wave 2,Delta,Karnataka,5009,1330,451,122,16.25,10.27
+COV0661,2021-05-30,Wave 2,Delta,Karnataka,6175,1483,470,130,21.74,18.92
+COV0662,2021-06-01,Wave 2,Delta,Delhi,8986,2105,705,206,18.69,12.49
+COV0663,2021-06-01,Wave 2,Delta,Andhra Pradesh,9728,2199,702,206,22.35,28.38
+COV0664,2021-06-03,Wave 2,Delta,Kerala,4756,1229,426,114,12.81,18.48
+COV0665,2021-06-03,Wave 2,Delta,Rajasthan,5680,1219,341,78,23.84,10.15
+COV0666,2021-06-03,Wave 2,Delta,Gujarat,6192,1433,414,103,13.26,14.48
+COV0667,2021-06-05,Wave 2,Delta,Tamil Nadu,5323,1495,515,114,24.77,12.15
+COV0668,2021-06-06,Wave 2,Delta,Maharashtra,5861,1424,474,111,21.55,23.29
+COV0669,2021-06-06,Wave 2,Delta,Gujarat,4508,1190,328,109,23.64,17.43
+COV0670,2021-06-06,Wave 2,Delta,West Bengal,8035,1843,499,159,15.29,31.64
+COV0671,2021-06-06,Wave 2,Delta,Kerala,5746,1462,383,98,15.1,15.34
+COV0672,2021-06-06,Wave 2,Delta,Andhra Pradesh,6851,1595,504,160,22.56,33.64
+COV0673,2021-06-07,Wave 2,Delta,Maharashtra,5057,1412,441,140,13.98,21.46
+COV0674,2021-06-07,Wave 2,Delta,Tamil Nadu,7387,1664,417,130,18.96,30.9
+COV0675,2021-06-08,Wave 2,Delta,Tamil Nadu,7949,2062,667,149,20.56,23.31
+COV0676,2021-06-08,Wave 2,Delta,Karnataka,6498,1401,466,105,17.45,14.21
+COV0677,2021-06-08,Wave 2,Delta,Rajasthan,6373,1866,478,110,14.12,24.88
+COV0678,2021-06-09,Wave 2,Delta,Tamil Nadu,7802,1800,548,150,14.08,14.27
+COV0679,2021-06-10,Wave 2,Delta,West Bengal,5705,1391,437,117,12.71,24.99
+COV0680,2021-06-11,Wave 2,Delta,Uttar Pradesh,7563,1865,480,129,22.45,32.54
+COV0681,2021-06-11,Wave 2,Delta,Karnataka,7219,1647,457,124,24.98,11.37
+COV0682,2021-06-12,Wave 2,Delta,Uttar Pradesh,11263,2722,719,166,12.22,31.84
+COV0683,2021-06-12,Wave 2,Delta,Karnataka,7597,2215,694,209,17.24,28.81
+COV0684,2021-06-12,Wave 2,Delta,Kerala,4430,1150,381,102,13.72,14.92
+COV0685,2021-06-13,Wave 2,Delta,Andhra Pradesh,3531,860,287,69,12.32,21.23
+COV0686,2021-06-13,Wave 2,Delta,Gujarat,5599,1377,386,86,16.2,23.6
+COV0687,2021-06-13,Wave 2,Delta,Karnataka,5362,1542,525,149,16.29,12.67
+COV0688,2021-06-13,Wave 2,Delta,Kerala,7322,1556,490,110,19.77,31.74
+COV0689,2021-06-15,Wave 2,Delta,Andhra Pradesh,9217,2334,610,182,13.52,18.43
+COV0690,2021-06-15,Wave 2,Delta,West Bengal,7130,2075,624,177,12.65,10.87
+COV0691,2021-06-15,Wave 2,Delta,West Bengal,8337,1692,585,179,24.13,16.64
+COV0692,2021-06-15,Wave 2,Delta,Andhra Pradesh,6635,1454,408,141,17.34,21.12
+COV0693,2021-06-16,Wave 2,Delta,Uttar Pradesh,8903,2464,671,208,15.03,25.63
+COV0694,2021-06-16,Wave 2,Delta,Andhra Pradesh,3980,1121,390,98,24.61,20.78
+COV0695,2021-06-16,Wave 2,Delta,Maharashtra,6333,1521,459,160,13.76,26.89
+COV0696,2021-06-16,Wave 2,Delta,Delhi,5680,1284,365,119,24.16,14.64
+COV0697,2021-06-17,Wave 2,Delta,Andhra Pradesh,10598,2568,729,251,17.78,22.23
+COV0698,2021-06-17,Wave 2,Delta,West Bengal,6732,1802,504,123,15.95,12.33
+COV0699,2021-06-17,Wave 2,Delta,Andhra Pradesh,7407,2049,631,202,21.77,30.08
+COV0700,2021-06-18,Wave 2,Delta,West Bengal,3026,706,189,43,24.44,24.98
+COV0701,2021-06-18,Wave 2,Delta,Uttar Pradesh,6666,1982,603,154,21.22,16.79
+COV0702,2021-06-18,Wave 2,Delta,Kerala,8393,2060,654,201,16.85,33.54
+COV0703,2021-06-18,Wave 2,Delta,Maharashtra,8562,1905,602,180,23.9,13.91
+COV0704,2021-06-19,Wave 2,Delta,Gujarat,6662,1731,540,164,15.48,10.38
+COV0705,2021-06-19,Wave 2,Delta,Andhra Pradesh,4765,1216,373,92,21.65,10.63
+COV0706,2021-06-19,Wave 2,Delta,Uttar Pradesh,10917,2765,865,251,13.68,19.4
+COV0707,2021-06-20,Wave 2,Delta,Tamil Nadu,5840,1411,369,110,24.2,26.54
+COV0708,2021-06-20,Wave 2,Delta,Maharashtra,7886,2145,597,199,12.64,15.78
+COV0709,2021-06-20,Wave 2,Delta,Gujarat,4616,1326,348,115,19.72,13.18
+COV0710,2021-06-20,Wave 2,Delta,Uttar Pradesh,7084,1540,457,105,20.13,23.76
+COV0711,2021-06-21,Wave 2,Delta,Karnataka,5735,1644,521,144,18.34,15.11
+COV0712,2021-06-21,Wave 2,Delta,Uttar Pradesh,4738,1336,371,84,12.74,13.01
+COV0713,2021-06-21,Wave 2,Delta,Gujarat,6762,2009,605,155,18.1,31.45
+COV0714,2021-06-21,Wave 2,Delta,Tamil Nadu,5410,1161,330,109,14.01,12.07
+COV0715,2021-06-22,Wave 2,Delta,Maharashtra,5360,1207,398,129,24.73,22.55
+COV0716,2021-06-22,Wave 2,Delta,Kerala,6924,1696,586,159,22.92,14.71
+COV0717,2021-06-22,Wave 2,Delta,Rajasthan,6322,1882,489,108,17.64,12.32
+COV0718,2021-06-22,Wave 2,Delta,Gujarat,11384,2537,785,267,24.08,18.55
+COV0719,2021-06-22,Wave 2,Delta,Rajasthan,4812,1336,448,147,16.68,27.18
+COV0720,2021-06-23,Wave 2,Delta,Tamil Nadu,3422,905,240,69,13.14,19.43
+COV0721,2021-06-23,Wave 2,Delta,Kerala,7712,1680,538,150,20.68,30.93
+COV0722,2021-06-24,Wave 2,Delta,Delhi,5620,1661,477,125,12.81,22.15
+COV0723,2021-06-24,Wave 2,Delta,Tamil Nadu,15987,3764,960,215,17.5,12.11
+COV0724,2021-06-24,Wave 2,Delta,Tamil Nadu,6577,1366,433,141,15.18,20.53
+COV0725,2021-06-24,Wave 2,Delta,Rajasthan,4837,1307,355,95,17.08,34.41
+COV0726,2021-06-25,Wave 2,Delta,Delhi,9426,2060,669,194,14.65,17.3
+COV0727,2021-06-25,Wave 2,Delta,Kerala,5699,1448,462,143,14.23,22.5
+COV0728,2021-06-25,Wave 2,Delta,Maharashtra,8183,2345,654,183,20.05,20.28
+COV0729,2021-06-25,Wave 2,Delta,Karnataka,8262,2181,613,211,12.43,24.49
+COV0730,2021-06-25,Wave 2,Delta,Tamil Nadu,8561,1741,588,147,19.25,10.97
+COV0731,2021-06-26,Wave 2,Delta,Uttar Pradesh,5645,1404,369,93,17.45,24.98
+COV0732,2021-06-27,Wave 2,Delta,Tamil Nadu,8612,2426,832,193,17.85,18.44
+COV0733,2021-06-27,Wave 2,Delta,Andhra Pradesh,9618,2163,665,152,13.23,34.97
+COV0734,2021-06-27,Wave 2,Delta,Gujarat,5949,1277,407,139,20.87,18.29
+COV0735,2021-06-27,Wave 2,Delta,Maharashtra,5634,1247,364,123,18.59,14.7
+COV0736,2021-06-28,Wave 2,Delta,West Bengal,4212,907,307,85,19.34,26.58
+COV0737,2021-06-28,Wave 2,Delta,Uttar Pradesh,5396,1423,365,97,18.95,34.91
+COV0738,2021-06-28,Wave 2,Delta,Gujarat,10182,2057,579,131,21.96,27.55
+COV0739,2021-06-28,Wave 2,Delta,West Bengal,7153,1739,500,169,15.27,31.11
+COV0740,2021-06-28,Wave 2,Delta,Delhi,4247,935,288,89,20.84,20.2
+COV0741,2021-06-28,Wave 2,Delta,Delhi,6478,1308,435,125,22.08,15.86
+COV0742,2021-06-29,Wave 2,Delta,Maharashtra,6667,1789,537,171,18.31,13.73
+COV0743,2021-06-29,Wave 2,Delta,Tamil Nadu,6746,1657,492,132,24.57,27.43
+COV0744,2021-06-29,Wave 2,Delta,Rajasthan,6459,1699,497,144,14.27,17.4
+COV0745,2021-06-29,Wave 2,Delta,Andhra Pradesh,6873,1946,565,148,18.4,24.32
+COV0746,2021-06-29,Wave 2,Delta,Uttar Pradesh,6406,1631,422,134,19.57,14.66
+COV0747,2021-06-30,Wave 2,Delta,Gujarat,3988,1031,313,72,12.74,12.64
+COV0748,2021-06-30,Wave 2,Delta,Gujarat,4455,945,265,90,14.1,34.15
+COV0749,2021-06-30,Wave 2,Delta,Delhi,7610,1711,464,118,15.22,11.56
+COV0750,2021-06-30,Wave 2,Delta,Karnataka,7301,2108,568,145,15.76,19.43
+COV0751,2021-06-30,Wave 2,Delta,Andhra Pradesh,5053,1088,334,85,23.98,24.58
+COV0752,2021-06-30,Wave 2,Delta,Kerala,11309,2380,647,186,19.9,16.13
+COV0753,2021-07-01,Wave 2,Delta,Uttar Pradesh,4560,1269,318,101,23.61,20.82
+COV0754,2021-07-01,Wave 2,Delta,Delhi,5878,1465,410,121,17.64,14.11
+COV0755,2021-07-01,Wave 2,Delta,Delhi,5402,1305,440,108,22.74,23.94
+COV0756,2021-07-02,Wave 2,Delta,Delhi,6575,1602,444,129,16.51,33.32
+COV0757,2021-07-02,Wave 2,Delta,Kerala,5481,1103,347,106,22.38,33.32
+COV0758,2021-07-03,Wave 2,Delta,Uttar Pradesh,10298,2759,863,220,15.23,33.55
+COV0759,2021-07-03,Wave 2,Delta,West Bengal,5583,1266,329,79,13.91,34.33
+COV0760,2021-07-03,Wave 2,Delta,Kerala,9809,2335,772,252,17.0,21.48
+COV0761,2021-07-03,Wave 2,Delta,Delhi,6398,1537,512,166,19.95,19.34
+COV0762,2021-07-04,Wave 2,Delta,Maharashtra,8337,1801,576,183,13.38,22.65
+COV0763,2021-07-04,Wave 2,Delta,Delhi,4914,1048,278,95,23.43,32.68
+COV0764,2021-07-04,Wave 2,Delta,Andhra Pradesh,9001,2422,646,168,18.54,29.91
+COV0765,2021-07-04,Wave 2,Delta,Kerala,5554,1329,413,114,21.65,15.71
+COV0766,2021-07-04,Wave 2,Delta,Gujarat,4935,1068,350,82,20.25,13.1
+COV0767,2021-07-04,Wave 2,Delta,Gujarat,5355,1306,393,99,16.11,12.17
+COV0768,2021-07-05,Wave 2,Delta,Karnataka,7564,1655,532,152,19.86,21.52
+COV0769,2021-07-05,Wave 2,Delta,Rajasthan,7615,1777,584,162,14.38,31.37
+COV0770,2021-07-05,Wave 2,Delta,Kerala,8344,1844,504,152,22.79,20.39
+COV0771,2021-07-07,Wave 2,Delta,Tamil Nadu,6303,1351,338,75,19.63,21.38
+COV0772,2021-07-08,Wave 2,Delta,Maharashtra,5879,1300,454,157,20.44,30.11
+COV0773,2021-07-08,Wave 2,Delta,Andhra Pradesh,9283,2777,761,253,22.8,15.62
+COV0774,2021-07-09,Wave 2,Delta,Rajasthan,7234,1908,523,163,13.19,14.98
+COV0775,2021-07-10,Wave 2,Delta,Tamil Nadu,4013,1161,367,118,17.91,25.76
+COV0776,2021-07-11,Wave 2,Delta,Rajasthan,6593,1735,460,129,21.31,16.77
+COV0777,2021-07-11,Wave 2,Delta,West Bengal,5949,1195,391,109,24.85,22.08
+COV0778,2021-07-11,Wave 2,Delta,Tamil Nadu,2599,564,190,56,14.04,34.06
+COV0779,2021-07-12,Wave 2,Delta,Andhra Pradesh,5670,1395,379,89,24.39,11.82
+COV0780,2021-07-12,Wave 2,Delta,Karnataka,6989,1993,685,158,17.01,11.78
+COV0781,2021-07-12,Wave 2,Delta,West Bengal,3146,884,258,81,23.87,24.3
+COV0782,2021-07-13,Wave 2,Delta,Andhra Pradesh,6367,1664,455,128,17.58,11.87
+COV0783,2021-07-14,Wave 2,Delta,West Bengal,9609,2746,960,241,12.52,20.28
+COV0784,2021-07-14,Wave 2,Delta,Karnataka,5333,1241,356,113,16.4,33.8
+COV0785,2021-07-15,Wave 2,Delta,Rajasthan,10592,2829,935,320,17.2,29.58
+COV0786,2021-07-15,Wave 2,Delta,Tamil Nadu,7084,1471,368,113,20.34,20.27
+COV0787,2021-07-15,Wave 2,Delta,West Bengal,8571,1871,609,171,14.94,25.42
+COV0788,2021-07-16,Wave 2,Delta,Andhra Pradesh,8128,1666,425,131,17.95,15.66
+COV0789,2021-07-16,Wave 2,Delta,West Bengal,4049,1103,289,74,18.92,24.11
+COV0790,2021-07-16,Wave 2,Delta,Rajasthan,5362,1116,288,69,18.74,15.35
+COV0791,2021-07-17,Wave 2,Delta,West Bengal,7543,1603,524,131,20.81,24.14
+COV0792,2021-07-17,Wave 2,Delta,Andhra Pradesh,5390,1401,398,135,17.29,13.58
+COV0793,2021-07-17,Wave 2,Delta,Uttar Pradesh,9273,1861,543,170,17.76,28.31
+COV0794,2021-07-17,Wave 2,Delta,Andhra Pradesh,7392,1840,578,144,19.18,19.3
+COV0795,2021-07-18,Wave 2,Delta,Rajasthan,4409,1040,345,112,18.21,18.77
+COV0796,2021-07-18,Wave 2,Delta,Uttar Pradesh,4802,1040,356,116,16.6,26.4
+COV0797,2021-07-19,Wave 2,Delta,Kerala,10860,2715,866,269,20.43,16.88
+COV0798,2021-07-19,Wave 2,Delta,Tamil Nadu,8409,2322,769,203,17.64,31.21
+COV0799,2021-07-20,Wave 2,Delta,Rajasthan,8322,2400,732,211,14.54,14.16
+COV0800,2021-07-20,Wave 2,Delta,Maharashtra,6500,1834,577,175,13.67,26.25
+COV0801,2021-07-20,Wave 2,Delta,Andhra Pradesh,7174,1673,535,170,24.08,15.12
+COV0802,2021-07-21,Wave 2,Delta,Karnataka,4932,1434,385,125,19.08,11.95
+COV0803,2021-07-21,Wave 2,Delta,West Bengal,8363,2101,598,160,20.08,27.97
+COV0804,2021-07-21,Wave 2,Delta,West Bengal,8985,2640,828,217,15.5,14.77
+COV0805,2021-07-21,Wave 2,Delta,Kerala,4651,1272,324,73,17.02,18.84
+COV0806,2021-07-22,Wave 2,Delta,Kerala,5326,1077,308,99,19.36,17.82
+COV0807,2021-07-23,Wave 2,Delta,Andhra Pradesh,8044,1687,429,104,19.04,26.14
+COV0808,2021-07-23,Wave 2,Delta,Tamil Nadu,4819,975,325,112,13.76,15.79
+COV0809,2021-07-23,Wave 2,Delta,Andhra Pradesh,13059,3013,938,315,22.53,24.58
+COV0810,2021-07-23,Wave 2,Delta,Kerala,6660,1715,487,158,15.1,15.61
+COV0811,2021-07-24,Wave 2,Delta,Andhra Pradesh,6059,1796,478,123,13.3,16.79
+COV0812,2021-07-24,Wave 2,Delta,Kerala,10738,2704,689,172,18.4,17.76
+COV0813,2021-07-24,Wave 2,Delta,Rajasthan,12861,2726,766,248,23.2,13.43
+COV0814,2021-07-25,Wave 2,Delta,Gujarat,5625,1408,353,109,20.6,10.96
+COV0815,2021-07-26,Wave 2,Delta,Delhi,6198,1518,484,152,24.94,17.19
+COV0816,2021-07-26,Wave 2,Delta,Rajasthan,5894,1297,428,141,15.76,33.81
+COV0817,2021-07-26,Wave 2,Delta,Uttar Pradesh,8074,1942,585,172,24.17,26.81
+COV0818,2021-07-26,Wave 2,Delta,Delhi,5515,1587,549,145,16.4,10.18
+COV0819,2021-07-26,Wave 2,Delta,Maharashtra,8411,2435,830,216,20.98,16.79
+COV0820,2021-07-26,Wave 2,Delta,Maharashtra,6350,1709,462,125,23.64,15.11
+COV0821,2021-07-27,Wave 2,Delta,Delhi,5546,1423,484,131,15.85,13.59
+COV0822,2021-07-27,Wave 2,Delta,Karnataka,7226,1626,516,160,19.93,17.82
+COV0823,2021-07-27,Wave 2,Delta,Gujarat,8013,1622,517,134,12.72,25.25
+COV0824,2021-07-28,Wave 2,Delta,West Bengal,7011,1732,547,173,21.8,24.45
+COV0825,2021-07-28,Wave 2,Delta,Maharashtra,6321,1328,414,110,22.26,15.84
+COV0826,2021-07-29,Wave 2,Delta,Rajasthan,9049,1954,642,192,12.58,25.56
+COV0827,2021-07-29,Wave 2,Delta,Kerala,8163,2083,675,191,13.11,34.31
+COV0828,2021-07-29,Wave 2,Delta,Kerala,7320,1679,479,140,15.28,32.88
+COV0829,2021-07-29,Wave 2,Delta,Uttar Pradesh,9300,2614,730,202,21.45,27.32
+COV0830,2021-07-30,Wave 2,Delta,Gujarat,7254,1636,445,105,23.17,22.5
+COV0831,2021-07-30,Wave 2,Delta,Uttar Pradesh,4790,1320,448,103,17.11,12.51
+COV0832,2021-07-30,Wave 2,Delta,Andhra Pradesh,9738,2350,812,235,19.87,15.51
+COV0833,2021-07-31,Wave 2,Delta,Delhi,9091,2615,717,209,14.5,12.55
+COV0834,2021-07-31,Wave 2,Delta,Delhi,4153,940,297,102,23.91,22.57
+COV0835,2021-07-31,Wave 2,Delta,Andhra Pradesh,6265,1469,375,92,17.44,15.49
+COV0836,2021-07-31,Wave 2,Delta,Andhra Pradesh,3683,1098,301,92,21.31,25.18
+COV0837,2021-07-31,Wave 2,Delta,Maharashtra,5488,1519,389,114,13.55,10.91
+COV0838,2021-07-31,Wave 2,Delta,Gujarat,4716,1303,407,129,12.51,30.93
+COV0839,2021-12-01,Wave 3,Omicron,Kerala,13812,836,56,2,9.02,83.21
+COV0840,2021-12-01,Wave 3,Omicron,Rajasthan,10338,606,63,6,13.9,76.25
+COV0841,2021-12-01,Wave 3,Omicron,Karnataka,18001,804,46,4,9.21,89.65
+COV0842,2021-12-03,Wave 3,Omicron,Andhra Pradesh,15973,1017,102,5,9.06,77.32
+COV0843,2021-12-03,Wave 3,Omicron,Tamil Nadu,15279,506,27,2,10.13,81.72
+COV0844,2021-12-04,Wave 3,Omicron,Karnataka,14949,984,104,5,11.2,75.54
+COV0845,2021-12-04,Wave 3,Omicron,Tamil Nadu,16752,851,60,3,10.2,72.05
+COV0846,2021-12-04,Wave 3,Omicron,Karnataka,13221,763,91,6,12.98,73.24
+COV0847,2021-12-04,Wave 3,Omicron,Rajasthan,12500,565,44,4,12.52,86.42
+COV0848,2021-12-05,Wave 3,Omicron,Delhi,10205,703,42,4,8.0,79.9
+COV0849,2021-12-06,Wave 3,Omicron,Maharashtra,14278,912,73,3,8.75,77.76
+COV0850,2021-12-06,Wave 3,Omicron,Rajasthan,15740,785,75,3,16.72,76.17
+COV0851,2021-12-07,Wave 3,Omicron,Gujarat,13001,603,57,5,9.78,66.99
+COV0852,2021-12-07,Wave 3,Omicron,Gujarat,12444,593,68,4,14.43,74.55
+COV0853,2021-12-08,Wave 3,Omicron,Delhi,11381,742,59,4,8.36,77.45
+COV0854,2021-12-08,Wave 3,Omicron,Uttar Pradesh,9385,534,29,2,10.4,76.75
+COV0855,2021-12-08,Wave 3,Omicron,Tamil Nadu,20323,645,42,4,8.09,70.03
+COV0856,2021-12-09,Wave 3,Omicron,Delhi,15237,470,33,3,11.21,71.31
+COV0857,2021-12-09,Wave 3,Omicron,Kerala,12259,811,58,5,9.88,80.62
+COV0858,2021-12-10,Wave 3,Omicron,West Bengal,19161,1215,73,5,10.49,74.31
+COV0859,2021-12-10,Wave 3,Omicron,West Bengal,17304,834,94,5,15.2,82.18
+COV0860,2021-12-10,Wave 3,Omicron,Gujarat,13033,811,56,3,13.04,86.64
+COV0861,2021-12-10,Wave 3,Omicron,Rajasthan,18584,716,69,5,17.32,67.23
+COV0862,2021-12-11,Wave 3,Omicron,Uttar Pradesh,9277,540,52,4,8.01,68.0
+COV0863,2021-12-12,Wave 3,Omicron,West Bengal,17590,688,47,3,9.17,71.83
+COV0864,2021-12-12,Wave 3,Omicron,Rajasthan,10237,558,38,2,8.28,71.12
+COV0865,2021-12-12,Wave 3,Omicron,West Bengal,10338,497,59,3,11.55,77.05
+COV0866,2021-12-12,Wave 3,Omicron,West Bengal,15632,607,31,2,10.89,85.22
+COV0867,2021-12-13,Wave 3,Omicron,Delhi,18879,1089,59,3,15.71,86.04
+COV0868,2021-12-13,Wave 3,Omicron,Uttar Pradesh,16212,1089,118,14,8.23,67.82
+COV0869,2021-12-14,Wave 3,Omicron,Kerala,11150,477,52,5,11.5,67.08
+COV0870,2021-12-14,Wave 3,Omicron,West Bengal,15744,923,54,3,9.45,85.28
+COV0871,2021-12-14,Wave 3,Omicron,Rajasthan,16776,620,45,2,12.0,78.75
+COV0872,2021-12-14,Wave 3,Omicron,Tamil Nadu,12789,601,52,2,12.44,84.53
+COV0873,2021-12-15,Wave 3,Omicron,West Bengal,19609,639,62,5,17.07,68.06
+COV0874,2021-12-16,Wave 3,Omicron,Gujarat,12598,642,41,3,15.97,79.76
+COV0875,2021-12-16,Wave 3,Omicron,Delhi,12738,543,64,4,12.56,65.75
+COV0876,2021-12-16,Wave 3,Omicron,West Bengal,24732,917,62,6,17.47,68.4
+COV0877,2021-12-17,Wave 3,Omicron,Uttar Pradesh,16158,1020,63,7,14.56,87.05
+COV0878,2021-12-17,Wave 3,Omicron,Karnataka,12244,724,83,5,17.5,66.58
+COV0879,2021-12-17,Wave 3,Omicron,West Bengal,14908,748,45,2,9.24,67.53
+COV0880,2021-12-18,Wave 3,Omicron,Tamil Nadu,13302,440,32,3,13.51,85.42
+COV0881,2021-12-18,Wave 3,Omicron,Kerala,17975,937,68,6,14.44,73.32
+COV0882,2021-12-18,Wave 3,Omicron,Gujarat,11879,556,49,2,8.79,87.03
+COV0883,2021-12-18,Wave 3,Omicron,West Bengal,20263,1002,82,8,16.22,78.86
+COV0884,2021-12-19,Wave 3,Omicron,West Bengal,18402,974,63,6,17.42,77.96
+COV0885,2021-12-19,Wave 3,Omicron,Delhi,14541,838,93,7,11.13,83.84
+COV0886,2021-12-20,Wave 3,Omicron,Andhra Pradesh,12749,746,71,6,10.83,74.45
+COV0887,2021-12-20,Wave 3,Omicron,Uttar Pradesh,16835,531,41,3,14.98,80.95
+COV0888,2021-12-21,Wave 3,Omicron,Delhi,13744,810,63,4,11.56,72.1
+COV0889,2021-12-21,Wave 3,Omicron,Uttar Pradesh,13619,841,68,4,10.67,77.73
+COV0890,2021-12-21,Wave 3,Omicron,Karnataka,22840,1558,135,10,17.54,81.05
+COV0891,2021-12-22,Wave 3,Omicron,Gujarat,20938,1120,75,4,11.4,76.91
+COV0892,2021-12-23,Wave 3,Omicron,Kerala,16156,1025,87,7,13.62,69.27
+COV0893,2021-12-24,Wave 3,Omicron,Maharashtra,14498,681,52,5,15.62,77.63
+COV0894,2021-12-24,Wave 3,Omicron,Delhi,18550,967,49,4,11.76,88.57
+COV0895,2021-12-24,Wave 3,Omicron,Tamil Nadu,22403,768,42,3,13.21,83.56
+COV0896,2021-12-24,Wave 3,Omicron,Rajasthan,12645,811,55,2,10.23,66.41
+COV0897,2021-12-24,Wave 3,Omicron,Kerala,17439,537,34,2,16.78,78.18
+COV0898,2021-12-24,Wave 3,Omicron,Uttar Pradesh,16555,896,65,7,14.67,66.1
+COV0899,2021-12-24,Wave 3,Omicron,Kerala,16122,1114,64,7,17.14,78.13
+COV0900,2021-12-25,Wave 3,Omicron,Kerala,28937,1292,72,3,10.53,66.86
+COV0901,2021-12-25,Wave 3,Omicron,Tamil Nadu,18351,1098,55,3,13.81,82.86
+COV0902,2021-12-25,Wave 3,Omicron,Uttar Pradesh,18551,980,85,4,14.15,85.7
+COV0903,2021-12-25,Wave 3,Omicron,Andhra Pradesh,15208,594,51,5,11.53,81.06
+COV0904,2021-12-26,Wave 3,Omicron,Gujarat,18738,952,92,9,9.31,80.02
+COV0905,2021-12-26,Wave 3,Omicron,Kerala,18650,740,45,3,10.9,80.72
+COV0906,2021-12-26,Wave 3,Omicron,Uttar Pradesh,15589,581,43,3,14.23,66.86
+COV0907,2021-12-26,Wave 3,Omicron,Kerala,16801,732,80,6,9.93,69.78
+COV0908,2021-12-26,Wave 3,Omicron,Gujarat,9223,397,37,2,17.1,80.85
+COV0909,2021-12-26,Wave 3,Omicron,Karnataka,13184,610,70,5,14.64,71.38
+COV0910,2021-12-26,Wave 3,Omicron,Maharashtra,18423,929,107,5,13.03,79.61
+COV0911,2021-12-27,Wave 3,Omicron,Karnataka,16747,1002,86,5,15.77,78.81
+COV0912,2021-12-28,Wave 3,Omicron,West Bengal,18503,957,68,4,8.86,82.85
+COV0913,2021-12-28,Wave 3,Omicron,Andhra Pradesh,27299,1462,121,10,17.28,85.71
+COV0914,2021-12-28,Wave 3,Omicron,Delhi,8783,582,59,5,13.3,73.69
+COV0915,2021-12-28,Wave 3,Omicron,Rajasthan,10490,520,35,3,13.77,70.53
+COV0916,2021-12-29,Wave 3,Omicron,Tamil Nadu,17787,1144,66,6,14.74,67.88
+COV0917,2021-12-30,Wave 3,Omicron,Uttar Pradesh,20143,677,64,5,12.06,81.99
+COV0918,2021-12-30,Wave 3,Omicron,Gujarat,20284,1319,67,6,17.33,81.43
+COV0919,2021-12-30,Wave 3,Omicron,Gujarat,11648,702,71,7,10.0,70.28
+COV0920,2021-12-30,Wave 3,Omicron,Karnataka,18025,1219,136,11,15.75,79.05
+COV0921,2021-12-30,Wave 3,Omicron,Gujarat,16955,957,58,5,9.28,75.63
+COV0922,2021-12-30,Wave 3,Omicron,Karnataka,12952,725,40,4,10.59,73.43
+COV0923,2021-12-30,Wave 3,Omicron,Andhra Pradesh,19550,1244,131,10,10.3,75.15
+COV0924,2021-12-31,Wave 3,Omicron,Andhra Pradesh,19546,964,52,4,16.41,89.92
+COV0925,2022-01-01,Wave 3,Omicron,Maharashtra,11465,669,33,2,8.38,79.23
+COV0926,2022-01-01,Wave 3,Omicron,Kerala,10270,498,53,4,16.32,77.35
+COV0927,2022-01-01,Wave 3,Omicron,Tamil Nadu,10390,619,64,6,15.23,70.11
+COV0928,2022-01-01,Wave 3,Omicron,Tamil Nadu,20046,1388,129,13,8.86,69.59
+COV0929,2022-01-02,Wave 3,Omicron,Maharashtra,10216,553,42,2,16.67,83.67
+COV0930,2022-01-02,Wave 3,Omicron,Tamil Nadu,19034,690,52,4,9.59,89.2
+COV0931,2022-01-02,Wave 3,Omicron,Rajasthan,20079,616,54,5,13.41,73.1
+COV0932,2022-01-02,Wave 3,Omicron,Uttar Pradesh,11548,426,49,5,10.3,73.19
+COV0933,2022-01-03,Wave 3,Omicron,Karnataka,15189,1003,69,7,17.96,71.32
+COV0934,2022-01-03,Wave 3,Omicron,Rajasthan,19234,969,85,6,8.81,69.83
+COV0935,2022-01-03,Wave 3,Omicron,Andhra Pradesh,10632,612,52,4,16.9,76.01
+COV0936,2022-01-03,Wave 3,Omicron,Rajasthan,16920,864,74,6,15.49,89.12
+COV0937,2022-01-03,Wave 3,Omicron,Rajasthan,17050,613,55,3,10.28,65.29
+COV0938,2022-01-03,Wave 3,Omicron,Delhi,9774,442,39,2,17.97,75.64
+COV0939,2022-01-04,Wave 3,Omicron,Andhra Pradesh,15072,870,92,7,11.36,70.86
+COV0940,2022-01-04,Wave 3,Omicron,Delhi,12969,688,41,3,14.97,79.0
+COV0941,2022-01-05,Wave 3,Omicron,Maharashtra,11187,735,84,4,16.21,65.94
+COV0942,2022-01-05,Wave 3,Omicron,Delhi,15812,613,49,5,15.84,76.33
+COV0943,2022-01-06,Wave 3,Omicron,Andhra Pradesh,16763,978,65,4,11.34,65.64
+COV0944,2022-01-06,Wave 3,Omicron,West Bengal,18223,692,36,3,10.63,66.31
+COV0945,2022-01-06,Wave 3,Omicron,Gujarat,16750,534,51,5,9.63,85.31
+COV0946,2022-01-07,Wave 3,Omicron,Rajasthan,19328,586,32,2,14.69,87.21
+COV0947,2022-01-07,Wave 3,Omicron,West Bengal,15378,666,61,3,14.06,67.24
+COV0948,2022-01-07,Wave 3,Omicron,Tamil Nadu,15593,704,57,6,11.5,76.3
+COV0949,2022-01-07,Wave 3,Omicron,West Bengal,14377,943,64,6,13.18,76.55
+COV0950,2022-01-07,Wave 3,Omicron,Gujarat,13087,701,64,5,12.32,66.35
+COV0951,2022-01-08,Wave 3,Omicron,Uttar Pradesh,10862,348,17,1,12.77,68.27
+COV0952,2022-01-08,Wave 3,Omicron,Andhra Pradesh,10702,397,26,2,10.51,73.01
+COV0953,2022-01-09,Wave 3,Omicron,Tamil Nadu,15871,506,53,4,9.99,77.37
+COV0954,2022-01-09,Wave 3,Omicron,Gujarat,13459,496,37,4,14.15,75.3
+COV0955,2022-01-09,Wave 3,Omicron,Tamil Nadu,26614,1139,129,8,14.15,75.14
+COV0956,2022-01-09,Wave 3,Omicron,Tamil Nadu,15256,774,63,3,13.57,81.54
+COV0957,2022-01-10,Wave 3,Omicron,Maharashtra,11572,769,49,2,15.41,85.69
+COV0958,2022-01-10,Wave 3,Omicron,West Bengal,17636,1198,80,6,12.82,82.57
+COV0959,2022-01-12,Wave 3,Omicron,Kerala,20523,1013,96,4,14.54,80.46
+COV0960,2022-01-12,Wave 3,Omicron,Rajasthan,14480,987,64,7,12.26,89.64
+COV0961,2022-01-13,Wave 3,Omicron,Delhi,11342,586,34,3,17.32,88.68
+COV0962,2022-01-14,Wave 3,Omicron,Gujarat,15675,555,47,2,17.34,69.59
+COV0963,2022-01-14,Wave 3,Omicron,Uttar Pradesh,13194,547,34,3,15.13,82.2
+COV0964,2022-01-14,Wave 3,Omicron,Maharashtra,19536,1087,57,5,15.78,77.51
+COV0965,2022-01-14,Wave 3,Omicron,Kerala,11360,528,36,2,14.54,75.41
+COV0966,2022-01-16,Wave 3,Omicron,Andhra Pradesh,10911,493,41,3,13.6,77.16
+COV0967,2022-01-18,Wave 3,Omicron,Rajasthan,14892,782,90,4,10.38,88.46
+COV0968,2022-01-18,Wave 3,Omicron,West Bengal,12649,633,38,3,11.34,78.05
+COV0969,2022-01-18,Wave 3,Omicron,Karnataka,22318,861,50,5,9.57,89.37
+COV0970,2022-01-18,Wave 3,Omicron,Kerala,20591,1274,145,17,8.11,80.57
+COV0971,2022-01-18,Wave 3,Omicron,Rajasthan,15694,727,70,5,14.31,76.24
+COV0972,2022-01-20,Wave 3,Omicron,Gujarat,20663,1063,73,3,9.62,87.38
+COV0973,2022-01-21,Wave 3,Omicron,Karnataka,20765,853,81,7,16.71,73.56
+COV0974,2022-01-22,Wave 3,Omicron,Karnataka,15201,832,88,7,15.86,76.56
+COV0975,2022-01-22,Wave 3,Omicron,Rajasthan,12436,593,49,5,11.82,76.08
+COV0976,2022-01-23,Wave 3,Omicron,Kerala,11336,362,39,3,9.97,72.93
+COV0977,2022-01-24,Wave 3,Omicron,Delhi,19212,901,70,3,11.36,89.4
+COV0978,2022-01-25,Wave 3,Omicron,Tamil Nadu,12059,392,35,3,13.06,85.43
+COV0979,2022-01-25,Wave 3,Omicron,Tamil Nadu,10113,612,49,5,14.18,67.83
+COV0980,2022-01-25,Wave 3,Omicron,Tamil Nadu,16121,988,115,6,12.21,77.02
+COV0981,2022-01-26,Wave 3,Omicron,West Bengal,16117,513,53,3,16.3,82.6
+COV0982,2022-01-26,Wave 3,Omicron,Karnataka,20687,1120,77,8,10.83,82.17
+COV0983,2022-01-26,Wave 3,Omicron,Maharashtra,18165,890,67,6,17.01,69.1
+COV0984,2022-01-27,Wave 3,Omicron,Uttar Pradesh,19960,970,52,3,12.36,68.92
+COV0985,2022-01-27,Wave 3,Omicron,Tamil Nadu,13675,849,95,8,12.56,65.77
+COV0986,2022-01-28,Wave 3,Omicron,West Bengal,11336,394,25,2,16.4,82.53
+COV0987,2022-01-28,Wave 3,Omicron,Delhi,21203,918,69,4,13.85,76.07
+COV0988,2022-01-28,Wave 3,Omicron,Karnataka,24974,1143,108,6,17.33,74.58
+COV0989,2022-01-29,Wave 3,Omicron,Gujarat,14813,884,80,6,9.71,70.67
+COV0990,2022-01-29,Wave 3,Omicron,Tamil Nadu,18977,1322,78,8,11.95,77.31
+COV0991,2022-01-29,Wave 3,Omicron,Karnataka,12952,536,56,6,17.75,70.81
+COV0992,2022-01-29,Wave 3,Omicron,West Bengal,17363,904,48,2,15.2,76.11
+COV0993,2022-01-30,Wave 3,Omicron,Tamil Nadu,12970,874,75,5,16.73,74.87
+COV0994,2022-01-30,Wave 3,Omicron,Maharashtra,14023,476,32,3,11.46,89.33
+COV0995,2022-01-30,Wave 3,Omicron,Delhi,15011,1041,79,4,14.67,72.11
+COV0996,2022-01-30,Wave 3,Omicron,Gujarat,14816,591,67,7,15.21,84.14
+COV0997,2022-01-30,Wave 3,Omicron,Rajasthan,13682,788,60,4,12.69,74.19
+COV0998,2022-01-31,Wave 3,Omicron,Maharashtra,14171,976,107,6,17.47,75.58
+COV0999,2022-01-31,Wave 3,Omicron,Andhra Pradesh,25009,1332,99,6,13.04,85.76
+COV1000,2022-01-31,Wave 3,Omicron,Maharashtra,17734,612,55,6,12.77,89.86
+COV1001,2022-02-01,Wave 3,Omicron,Delhi,20942,796,49,3,12.18,77.71
+COV1002,2022-02-01,Wave 3,Omicron,Tamil Nadu,15546,953,104,11,13.08,70.82
+COV1003,2022-02-01,Wave 3,Omicron,Delhi,16485,877,88,6,14.29,82.48
+COV1004,2022-02-03,Wave 3,Omicron,Uttar Pradesh,13238,474,46,4,15.83,88.44
+COV1005,2022-02-03,Wave 3,Omicron,Gujarat,17086,1102,129,8,12.5,65.55
+COV1006,2022-02-03,Wave 3,Omicron,Maharashtra,20222,1095,64,3,13.27,75.07
+COV1007,2022-02-03,Wave 3,Omicron,Andhra Pradesh,15730,981,99,9,9.13,83.02
+COV1008,2022-02-04,Wave 3,Omicron,Delhi,14007,619,44,5,14.42,65.59
+COV1009,2022-02-04,Wave 3,Omicron,Uttar Pradesh,10730,721,36,3,17.03,68.49
+COV1010,2022-02-04,Wave 3,Omicron,Karnataka,13410,736,47,4,13.45,72.09
+COV1011,2022-02-04,Wave 3,Omicron,Uttar Pradesh,12457,837,56,5,10.75,85.6
+COV1012,2022-02-06,Wave 3,Omicron,Uttar Pradesh,15051,829,59,6,9.94,73.65
+COV1013,2022-02-06,Wave 3,Omicron,Tamil Nadu,15006,507,32,2,10.06,86.91
+COV1014,2022-02-06,Wave 3,Omicron,Karnataka,11874,794,65,7,12.52,75.61
+COV1015,2022-02-06,Wave 3,Omicron,Tamil Nadu,20161,854,91,10,14.73,66.17
+COV1016,2022-02-07,Wave 3,Omicron,Delhi,20296,907,78,8,11.62,78.11
+COV1017,2022-02-07,Wave 3,Omicron,Delhi,20487,710,41,3,17.37,72.71
+COV1018,2022-02-08,Wave 3,Omicron,Tamil Nadu,15893,783,73,3,9.95,77.28
+COV1019,2022-02-08,Wave 3,Omicron,Gujarat,12569,760,66,7,8.33,74.17
+COV1020,2022-02-09,Wave 3,Omicron,Gujarat,16435,670,50,4,16.82,88.55
+COV1021,2022-02-09,Wave 3,Omicron,Andhra Pradesh,17360,862,44,4,13.23,87.47
+COV1022,2022-02-09,Wave 3,Omicron,Tamil Nadu,17591,1095,63,4,11.37,79.24
+COV1023,2022-02-09,Wave 3,Omicron,Tamil Nadu,18705,963,78,5,8.04,71.04
+COV1024,2022-02-09,Wave 3,Omicron,Uttar Pradesh,19732,916,67,6,10.16,79.77
+COV1025,2022-02-10,Wave 3,Omicron,Uttar Pradesh,17318,718,41,4,14.45,74.35
+COV1026,2022-02-11,Wave 3,Omicron,Tamil Nadu,13786,813,47,3,12.85,78.52
+COV1027,2022-02-12,Wave 3,Omicron,Maharashtra,15176,487,25,2,13.38,77.72
+COV1028,2022-02-12,Wave 3,Omicron,West Bengal,18069,598,30,1,12.1,88.33
+COV1029,2022-02-12,Wave 3,Omicron,Karnataka,17170,1015,75,6,13.85,78.69
+COV1030,2022-02-12,Wave 3,Omicron,West Bengal,18541,947,83,6,11.26,76.89
+COV1031,2022-02-12,Wave 3,Omicron,Uttar Pradesh,27656,1478,120,13,10.65,76.22
+COV1032,2022-02-12,Wave 3,Omicron,Uttar Pradesh,11580,770,83,5,15.89,65.78
+COV1033,2022-02-13,Wave 3,Omicron,West Bengal,14356,471,54,5,14.58,85.6
+COV1034,2022-02-14,Wave 3,Omicron,Rajasthan,17154,942,50,2,12.5,73.32
+COV1035,2022-02-14,Wave 3,Omicron,West Bengal,19922,981,53,3,11.25,88.63
+COV1036,2022-02-14,Wave 3,Omicron,Gujarat,12643,699,79,5,14.65,66.97
+COV1037,2022-02-14,Wave 3,Omicron,Andhra Pradesh,13124,529,44,5,14.87,86.03
+COV1038,2022-02-14,Wave 3,Omicron,Kerala,10911,439,36,2,17.14,74.21
+COV1039,2022-02-14,Wave 3,Omicron,Uttar Pradesh,23024,1043,113,10,14.14,73.35
+COV1040,2022-02-15,Wave 3,Omicron,Tamil Nadu,13103,438,24,2,14.89,68.18
+COV1041,2022-02-15,Wave 3,Omicron,Maharashtra,17609,1194,76,8,15.04,76.35
+COV1042,2022-02-15,Wave 3,Omicron,Andhra Pradesh,11677,430,45,4,13.56,82.49
+COV1043,2022-02-16,Wave 3,Omicron,Karnataka,11917,822,57,4,14.5,65.62
+COV1044,2022-02-16,Wave 3,Omicron,Maharashtra,9745,392,38,2,16.39,76.2
+COV1045,2022-02-16,Wave 3,Omicron,Delhi,14299,696,63,3,10.75,65.82
+COV1046,2022-02-16,Wave 3,Omicron,Andhra Pradesh,21642,1038,83,4,15.19,70.34
+COV1047,2022-02-18,Wave 3,Omicron,Kerala,12461,865,100,11,16.89,76.7
+COV1048,2022-02-18,Wave 3,Omicron,Maharashtra,24728,1464,126,6,9.92,86.0
+COV1049,2022-02-18,Wave 3,Omicron,Andhra Pradesh,20937,1373,126,10,8.28,71.17
+COV1050,2022-02-19,Wave 3,Omicron,Uttar Pradesh,13758,588,53,3,9.16,89.25
+COV1051,2022-02-19,Wave 3,Omicron,Andhra Pradesh,10669,486,53,6,11.03,86.6
+COV1052,2022-02-19,Wave 3,Omicron,Delhi,16797,614,36,4,11.94,70.69
+COV1053,2022-02-20,Wave 3,Omicron,Gujarat,11170,348,40,2,10.4,67.08
+COV1054,2022-02-20,Wave 3,Omicron,Rajasthan,13629,581,58,6,17.39,85.13
+COV1055,2022-02-21,Wave 3,Omicron,West Bengal,12564,868,103,9,9.7,72.9
+COV1056,2022-02-21,Wave 3,Omicron,Uttar Pradesh,11332,676,45,3,11.86,89.55
+COV1057,2022-02-21,Wave 3,Omicron,Gujarat,12318,413,48,5,12.6,70.59
+COV1058,2022-02-21,Wave 3,Omicron,Andhra Pradesh,19598,710,47,5,10.09,66.81
+COV1059,2022-02-22,Wave 3,Omicron,Maharashtra,10509,604,51,3,11.2,79.8
+COV1060,2022-02-22,Wave 3,Omicron,Uttar Pradesh,13222,850,60,5,13.66,76.79
+COV1061,2022-02-22,Wave 3,Omicron,Delhi,14820,988,77,4,13.17,87.7
+COV1062,2022-02-22,Wave 3,Omicron,Andhra Pradesh,17722,770,52,3,13.1,79.63
+COV1063,2022-02-23,Wave 3,Omicron,Tamil Nadu,15728,554,62,6,12.23,77.93
+COV1064,2022-02-23,Wave 3,Omicron,Maharashtra,11309,371,24,2,17.08,84.53
+COV1065,2022-02-23,Wave 3,Omicron,Tamil Nadu,11737,550,47,2,14.63,86.31
+COV1066,2022-02-23,Wave 3,Omicron,Rajasthan,12722,861,101,7,17.23,78.62
+COV1067,2022-02-23,Wave 3,Omicron,Uttar Pradesh,13142,584,56,4,9.99,80.04
+COV1068,2022-02-24,Wave 3,Omicron,Uttar Pradesh,13368,830,74,7,14.62,73.89
+COV1069,2022-02-24,Wave 3,Omicron,Delhi,22348,1411,148,10,15.09,70.37
+COV1070,2022-02-25,Wave 3,Omicron,Uttar Pradesh,13026,788,46,3,16.82,65.5
+COV1071,2022-02-25,Wave 3,Omicron,Karnataka,15385,973,115,9,8.1,68.5
+COV1072,2022-02-25,Wave 3,Omicron,Tamil Nadu,11864,498,41,3,9.71,83.54
+COV1073,2022-02-26,Wave 3,Omicron,Andhra Pradesh,17800,748,57,6,15.49,71.81
+COV1074,2022-02-27,Wave 3,Omicron,Delhi,15092,748,64,4,12.55,76.77
+COV1075,2022-02-27,Wave 3,Omicron,Gujarat,18516,567,43,3,13.43,66.82
+COV1076,2022-03-01,Wave 3,Omicron,Rajasthan,18722,824,64,4,9.92,66.53
+COV1077,2022-03-01,Wave 3,Omicron,Gujarat,18618,1274,100,9,15.1,88.76
+COV1078,2022-03-01,Wave 3,Omicron,Kerala,9460,515,41,2,12.88,82.55
+COV1079,2022-03-02,Wave 3,Omicron,Gujarat,11523,670,37,3,14.54,88.91
+COV1080,2022-03-02,Wave 3,Omicron,Maharashtra,13386,746,55,5,13.57,71.4
+COV1081,2022-03-02,Wave 3,Omicron,Karnataka,15951,772,74,4,12.86,83.46
+COV1082,2022-03-02,Wave 3,Omicron,Gujarat,14465,545,30,3,11.5,78.78
+COV1083,2022-03-03,Wave 3,Omicron,Tamil Nadu,13962,534,40,2,14.77,72.24
+COV1084,2022-03-03,Wave 3,Omicron,Karnataka,17931,931,85,8,10.56,74.11
+COV1085,2022-03-03,Wave 3,Omicron,Uttar Pradesh,10875,353,24,2,16.85,70.54
+COV1086,2022-03-04,Wave 3,Omicron,Delhi,14442,863,101,8,16.61,79.15
+COV1087,2022-03-04,Wave 3,Omicron,Karnataka,12948,452,53,3,9.15,67.67
+COV1088,2022-03-04,Wave 3,Omicron,Delhi,16284,691,49,5,8.72,87.03
+COV1089,2022-03-05,Wave 3,Omicron,Andhra Pradesh,8137,319,18,1,8.55,69.95
+COV1090,2022-03-05,Wave 3,Omicron,Tamil Nadu,14744,589,54,4,11.7,77.15
+COV1091,2022-03-05,Wave 3,Omicron,Tamil Nadu,16069,519,37,2,9.74,84.02
+COV1092,2022-03-05,Wave 3,Omicron,Maharashtra,21170,1433,151,9,15.12,74.62
+COV1093,2022-03-06,Wave 3,Omicron,Uttar Pradesh,15645,671,63,6,14.09,86.33
+COV1094,2022-03-06,Wave 3,Omicron,Rajasthan,16866,591,68,4,15.75,71.62
+COV1095,2022-03-06,Wave 3,Omicron,Tamil Nadu,15363,960,50,4,10.73,86.79
+COV1096,2022-03-06,Wave 3,Omicron,Delhi,12575,630,66,5,12.91,86.22
+COV1097,2022-03-07,Wave 3,Omicron,Karnataka,14980,942,103,8,8.89,75.94
+COV1098,2022-03-08,Wave 3,Omicron,West Bengal,20504,1215,68,6,16.96,66.44
+COV1099,2022-03-08,Wave 3,Omicron,Maharashtra,24055,1575,90,9,10.1,74.85
+COV1100,2022-03-08,Wave 3,Omicron,Maharashtra,16228,1028,112,7,12.29,76.77
+COV1101,2022-03-08,Wave 3,Omicron,Gujarat,14512,821,57,4,9.93,70.26
+COV1102,2022-03-08,Wave 3,Omicron,West Bengal,10871,592,53,5,17.38,87.81
+COV1103,2022-03-08,Wave 3,Omicron,Andhra Pradesh,20499,871,49,4,8.57,67.76
+COV1104,2022-03-09,Wave 3,Omicron,Maharashtra,11951,688,61,4,11.64,70.42
+COV1105,2022-03-09,Wave 3,Omicron,Gujarat,16066,872,55,5,17.67,71.71
+COV1106,2022-03-09,Wave 3,Omicron,Kerala,16431,788,85,7,17.99,72.17
+COV1107,2022-03-09,Wave 3,Omicron,Andhra Pradesh,14904,923,93,7,11.34,72.91
+COV1108,2022-03-10,Wave 3,Omicron,West Bengal,14994,780,73,4,17.49,69.24
+COV1109,2022-03-12,Wave 3,Omicron,Tamil Nadu,14977,453,48,3,13.41,81.93
+COV1110,2022-03-12,Wave 3,Omicron,Karnataka,20168,716,57,4,12.04,81.97
+COV1111,2022-03-12,Wave 3,Omicron,Gujarat,14402,747,74,7,14.29,68.82
+COV1112,2022-03-12,Wave 3,Omicron,Tamil Nadu,15018,760,51,5,17.06,79.17
+COV1113,2022-03-12,Wave 3,Omicron,Maharashtra,15538,1040,53,4,13.49,70.48
+COV1114,2022-03-13,Wave 3,Omicron,West Bengal,20518,912,52,5,15.83,69.2
+COV1115,2022-03-13,Wave 3,Omicron,Uttar Pradesh,10151,559,52,4,13.54,89.66
+COV1116,2022-03-13,Wave 3,Omicron,West Bengal,11810,736,45,4,11.37,79.64
+COV1117,2022-03-14,Wave 3,Omicron,Maharashtra,22700,727,61,3,12.01,73.77
+COV1118,2022-03-15,Wave 3,Omicron,Rajasthan,14917,635,54,6,8.48,73.81
+COV1119,2022-03-15,Wave 3,Omicron,Karnataka,18360,905,71,8,10.01,70.38
+COV1120,2022-03-15,Wave 3,Omicron,Tamil Nadu,18593,1223,145,13,9.62,87.65
+COV1121,2022-03-15,Wave 3,Omicron,Delhi,12820,696,82,6,14.81,66.59
+COV1122,2022-03-16,Wave 3,Omicron,Rajasthan,14220,856,62,3,11.99,89.5
+COV1123,2022-03-16,Wave 3,Omicron,Maharashtra,15516,893,89,8,11.11,67.49
+COV1124,2022-03-16,Wave 3,Omicron,Gujarat,15547,903,86,10,10.65,81.8
+COV1125,2022-03-16,Wave 3,Omicron,Andhra Pradesh,15912,954,54,4,17.92,84.26
+COV1126,2022-03-16,Wave 3,Omicron,West Bengal,13839,596,34,3,14.36,69.12
+COV1127,2022-03-16,Wave 3,Omicron,Uttar Pradesh,22980,1247,76,8,15.2,67.15
+COV1128,2022-03-17,Wave 3,Omicron,West Bengal,14013,468,45,3,12.71,66.23
+COV1129,2022-03-17,Wave 3,Omicron,Kerala,15106,885,81,5,12.11,70.44
+COV1130,2022-03-17,Wave 3,Omicron,Uttar Pradesh,19170,740,41,3,13.14,85.73
+COV1131,2022-03-17,Wave 3,Omicron,Karnataka,19035,803,94,9,12.08,72.01
+COV1132,2022-03-17,Wave 3,Omicron,Uttar Pradesh,14086,505,27,2,15.52,83.83
+COV1133,2022-03-18,Wave 3,Omicron,Tamil Nadu,21788,1427,118,13,13.86,81.85
+COV1134,2022-03-18,Wave 3,Omicron,Maharashtra,14079,920,101,8,13.86,89.4
+COV1135,2022-03-19,Wave 3,Omicron,Rajasthan,20138,673,77,5,13.76,84.8
+COV1136,2022-03-19,Wave 3,Omicron,Uttar Pradesh,13342,853,71,5,12.93,79.48
+COV1137,2022-03-20,Wave 3,Omicron,Andhra Pradesh,16011,536,35,2,12.28,81.46
+COV1138,2022-03-20,Wave 3,Omicron,Tamil Nadu,11882,673,62,5,8.88,87.34
+COV1139,2022-03-21,Wave 3,Omicron,Andhra Pradesh,15408,841,42,4,12.18,79.14
+COV1140,2022-03-21,Wave 3,Omicron,West Bengal,14281,616,47,3,11.43,75.27
+COV1141,2022-03-21,Wave 3,Omicron,Gujarat,9890,469,44,3,11.01,79.46
+COV1142,2022-03-21,Wave 3,Omicron,Gujarat,19528,1148,117,7,12.43,80.45
+COV1143,2022-03-22,Wave 3,Omicron,Karnataka,15491,538,57,3,17.0,87.77
+COV1144,2022-03-23,Wave 3,Omicron,Karnataka,17845,1066,65,4,12.61,72.16
+COV1145,2022-03-23,Wave 3,Omicron,Gujarat,9874,367,33,3,13.03,67.07
+COV1146,2022-03-23,Wave 3,Omicron,Maharashtra,17128,1126,65,7,10.09,65.29
+COV1147,2022-03-24,Wave 3,Omicron,Gujarat,16174,672,64,5,16.89,86.13
+COV1148,2022-03-24,Wave 3,Omicron,West Bengal,12751,501,26,1,14.54,78.34
+COV1149,2022-03-24,Wave 3,Omicron,Uttar Pradesh,11285,473,44,3,10.36,83.26
+COV1150,2022-03-24,Wave 3,Omicron,Maharashtra,10903,626,50,3,16.16,85.06
+COV1151,2022-03-24,Wave 3,Omicron,Andhra Pradesh,16862,797,93,7,9.43,74.74
+COV1152,2022-03-24,Wave 3,Omicron,Delhi,13722,511,46,4,13.57,83.46
+COV1153,2022-03-25,Wave 3,Omicron,West Bengal,10678,435,47,2,14.78,69.32
+COV1154,2022-03-25,Wave 3,Omicron,Rajasthan,14128,673,49,5,16.94,83.92
+COV1155,2022-03-26,Wave 3,Omicron,Gujarat,11351,401,38,1,17.25,67.81
+COV1156,2022-03-26,Wave 3,Omicron,Andhra Pradesh,25531,1495,164,9,12.52,75.2
+COV1157,2022-03-27,Wave 3,Omicron,West Bengal,21877,763,48,3,16.46,73.66
+COV1158,2022-03-27,Wave 3,Omicron,Uttar Pradesh,21854,733,58,3,17.87,79.03
+COV1159,2022-03-27,Wave 3,Omicron,Delhi,19185,850,51,4,12.61,87.52
+COV1160,2022-03-27,Wave 3,Omicron,Kerala,14663,452,48,2,14.57,74.13
+COV1161,2022-03-27,Wave 3,Omicron,Uttar Pradesh,18783,1272,96,10,15.81,83.89
+COV1162,2022-03-27,Wave 3,Omicron,Tamil Nadu,19512,966,75,8,8.56,68.55
+COV1163,2022-03-27,Wave 3,Omicron,West Bengal,12992,429,46,3,13.96,67.24
+COV1164,2022-03-27,Wave 3,Omicron,Andhra Pradesh,9448,499,40,3,15.33,82.15
+COV1165,2022-03-27,Wave 3,Omicron,Maharashtra,17482,633,41,2,15.93,69.67
+COV1166,2022-03-27,Wave 3,Omicron,Gujarat,24518,748,53,5,15.9,72.39
+COV1167,2022-03-28,Wave 3,Omicron,Rajasthan,11632,756,53,3,15.58,80.15
+COV1168,2022-03-28,Wave 3,Omicron,Delhi,14254,760,57,4,13.37,70.09
+COV1169,2022-03-29,Wave 3,Omicron,Uttar Pradesh,21280,1192,131,14,17.2,67.37
+COV1170,2022-03-29,Wave 3,Omicron,Gujarat,14407,465,52,4,14.69,85.79
+COV1171,2022-03-29,Wave 3,Omicron,Andhra Pradesh,14650,551,53,2,16.06,66.98
+COV1172,2022-03-29,Wave 3,Omicron,Rajasthan,10710,370,21,1,10.69,65.53
+COV1173,2022-03-30,Wave 3,Omicron,Uttar Pradesh,18946,1236,138,8,14.14,67.19
+COV1174,2022-03-30,Wave 3,Omicron,Maharashtra,15431,857,50,4,10.75,87.19
+COV1175,2022-03-31,Wave 3,Omicron,Andhra Pradesh,11102,374,29,1,17.48,76.88
+COV1176,2022-03-31,Wave 3,Omicron,Andhra Pradesh,13399,623,54,2,8.02,71.12
+COV1177,2022-03-31,Wave 3,Omicron,Karnataka,14608,910,94,10,16.55,82.08
+COV1178,2022-04-01,Wave 3,Omicron,Maharashtra,22326,729,42,3,10.75,66.99
+COV1179,2022-04-01,Wave 3,Omicron,Kerala,16236,684,53,3,12.67,72.14
+COV1180,2022-04-01,Wave 3,Omicron,Uttar Pradesh,13241,684,78,8,12.48,71.86
+COV1181,2022-04-02,Wave 3,Omicron,Karnataka,23875,920,49,3,9.44,82.75
+COV1182,2022-04-03,Wave 3,Omicron,West Bengal,17647,621,47,2,10.22,84.51
+COV1183,2022-04-03,Wave 3,Omicron,Uttar Pradesh,11295,577,55,3,16.64,72.73
+COV1184,2022-04-03,Wave 3,Omicron,Rajasthan,18938,1303,81,7,12.24,76.17
+COV1185,2022-04-03,Wave 3,Omicron,Maharashtra,15003,775,67,4,8.01,85.25
+COV1186,2022-04-04,Wave 3,Omicron,Delhi,16113,1070,79,7,8.39,69.67
+COV1187,2022-04-04,Wave 3,Omicron,Kerala,18554,1168,92,5,10.74,89.5
+COV1188,2022-04-05,Wave 3,Omicron,Tamil Nadu,13502,889,87,9,8.89,86.62
+COV1189,2022-04-05,Wave 3,Omicron,Kerala,16875,506,29,3,16.67,70.84
+COV1190,2022-04-05,Wave 3,Omicron,Maharashtra,17308,683,46,3,15.44,77.58
+COV1191,2022-04-06,Wave 3,Omicron,West Bengal,19646,763,74,7,12.73,80.44
+COV1192,2022-04-06,Wave 3,Omicron,Tamil Nadu,17934,753,45,3,11.76,83.91
+COV1193,2022-04-06,Wave 3,Omicron,Delhi,17286,878,103,12,10.15,85.28
+COV1194,2022-04-07,Wave 3,Omicron,Gujarat,14849,561,60,5,15.62,82.84
+COV1195,2022-04-07,Wave 3,Omicron,Gujarat,20587,814,85,4,11.69,77.65
+COV1196,2022-04-07,Wave 3,Omicron,Uttar Pradesh,15175,871,101,6,16.11,66.38
+COV1197,2022-04-07,Wave 3,Omicron,Maharashtra,13036,621,33,2,11.39,76.84
+COV1198,2022-04-08,Wave 3,Omicron,Gujarat,15686,575,33,1,17.09,69.84
+COV1199,2022-04-08,Wave 3,Omicron,Delhi,16684,667,63,7,12.18,87.78
+COV1200,2022-04-08,Wave 3,Omicron,Maharashtra,11454,687,65,4,8.49,65.78
+COV1201,2022-04-09,Wave 3,Omicron,Tamil Nadu,13530,542,62,5,13.33,79.91
+COV1202,2022-04-09,Wave 3,Omicron,Tamil Nadu,13967,815,74,5,13.77,73.56
+COV1203,2022-04-10,Wave 3,Omicron,Delhi,15559,472,48,4,11.66,66.32
+COV1204,2022-04-10,Wave 3,Omicron,Tamil Nadu,16551,1108,95,5,13.28,68.17
+COV1205,2022-04-11,Wave 3,Omicron,Gujarat,9759,590,50,4,16.47,65.24
+COV1206,2022-04-11,Wave 3,Omicron,Maharashtra,18287,816,62,3,15.98,82.68
+COV1207,2022-04-12,Wave 3,Omicron,Tamil Nadu,20311,1016,120,6,11.03,80.96
+COV1208,2022-04-13,Wave 3,Omicron,Rajasthan,14868,805,86,6,10.75,71.63
+COV1209,2022-04-14,Wave 3,Omicron,Kerala,17851,902,95,7,11.88,67.39
+COV1210,2022-04-14,Wave 3,Omicron,Gujarat,12976,496,35,2,17.43,88.29
+COV1211,2022-04-15,Wave 3,Omicron,Maharashtra,14611,784,90,8,12.14,82.24
+COV1212,2022-04-15,Wave 3,Omicron,Kerala,14955,722,49,3,12.83,87.17
+COV1213,2022-04-15,Wave 3,Omicron,Maharashtra,17289,797,47,4,9.27,76.92
+COV1214,2022-04-16,Wave 3,Omicron,Delhi,14223,661,58,4,15.49,85.7
+COV1215,2022-04-17,Wave 3,Omicron,Gujarat,13056,780,47,2,11.46,85.19
+COV1216,2022-04-17,Wave 3,Omicron,Andhra Pradesh,17313,834,77,7,11.83,86.73
+COV1217,2022-04-17,Wave 3,Omicron,Kerala,14556,592,31,3,12.51,67.52
+COV1218,2022-04-18,Wave 3,Omicron,Rajasthan,18535,1124,83,6,13.34,65.01
+COV1219,2022-04-18,Wave 3,Omicron,Rajasthan,22146,711,82,7,14.15,77.06
+COV1220,2022-04-18,Wave 3,Omicron,Rajasthan,21921,928,53,6,11.09,68.26
+COV1221,2022-04-18,Wave 3,Omicron,West Bengal,13771,915,81,5,11.79,86.08
+COV1222,2022-04-18,Wave 3,Omicron,Kerala,12798,437,42,4,17.51,83.24
+COV1223,2022-04-19,Wave 3,Omicron,Karnataka,21268,1101,106,12,8.99,70.8
+COV1224,2022-04-19,Wave 3,Omicron,Maharashtra,15740,791,70,5,10.95,83.34
+COV1225,2022-04-19,Wave 3,Omicron,Tamil Nadu,15710,699,38,4,8.39,81.37
+COV1226,2022-04-20,Wave 3,Omicron,Uttar Pradesh,17695,875,82,9,13.8,78.51
+COV1227,2022-04-20,Wave 3,Omicron,Andhra Pradesh,11679,786,79,7,14.48,65.73
+COV1228,2022-04-20,Wave 3,Omicron,Rajasthan,13946,647,75,4,17.74,70.77
+COV1229,2022-04-21,Wave 3,Omicron,Delhi,25811,1541,107,9,8.88,75.34
+COV1230,2022-04-21,Wave 3,Omicron,Kerala,18236,762,68,6,11.79,72.57
+COV1231,2022-04-21,Wave 3,Omicron,Karnataka,20309,1326,85,9,8.6,87.21
+COV1232,2022-04-21,Wave 3,Omicron,Gujarat,18537,1296,67,7,11.65,86.04
+COV1233,2022-04-21,Wave 3,Omicron,Uttar Pradesh,15110,908,96,5,12.68,81.17
+COV1234,2022-04-21,Wave 3,Omicron,West Bengal,16487,524,59,4,8.29,82.25
+COV1235,2022-04-22,Wave 3,Omicron,Kerala,18340,1028,103,5,17.37,69.11
+COV1236,2022-04-22,Wave 3,Omicron,Karnataka,15051,879,66,7,12.54,82.99
+COV1237,2022-04-23,Wave 3,Omicron,Tamil Nadu,16997,687,75,8,15.73,69.22
+COV1238,2022-04-23,Wave 3,Omicron,West Bengal,14924,956,99,7,13.04,76.61
+COV1239,2022-04-23,Wave 3,Omicron,Delhi,15324,1042,114,7,10.2,70.03
+COV1240,2022-04-24,Wave 3,Omicron,Kerala,15627,724,75,7,10.28,88.06
+COV1241,2022-04-24,Wave 3,Omicron,Karnataka,14950,744,44,4,10.06,76.03
+COV1242,2022-04-24,Wave 3,Omicron,Delhi,20927,736,65,7,12.15,73.17
+COV1243,2022-04-26,Wave 3,Omicron,Kerala,13400,882,57,3,10.8,68.19
+COV1244,2022-04-26,Wave 3,Omicron,Andhra Pradesh,13773,637,44,3,11.04,67.16
+COV1245,2022-04-27,Wave 3,Omicron,Kerala,16394,568,49,3,10.68,80.1
+COV1246,2022-04-28,Wave 3,Omicron,Rajasthan,14667,703,72,7,12.95,87.37
+COV1247,2022-04-28,Wave 3,Omicron,Delhi,17645,678,48,3,17.02,74.93
+COV1248,2022-04-29,Wave 3,Omicron,Gujarat,26424,1201,114,6,8.54,76.43
+COV1249,2022-04-29,Wave 3,Omicron,Rajasthan,19625,929,99,11,9.2,78.3
+COV1250,2022-04-29,Wave 3,Omicron,Tamil Nadu,17248,605,47,2,10.55,71.58
+COV1251,2022-04-30,Wave 3,Omicron,Delhi,12089,616,58,4,17.07,79.68
+COV1252,2022-04-30,Wave 3,Omicron,Delhi,17948,1213,88,4,12.96,78.61
+COV1253,2022-04-30,Wave 3,Omicron,Tamil Nadu,19321,727,58,5,16.16,89.71
+COV1254,2022-04-30,Wave 3,Omicron,Kerala,16572,602,64,3,10.33,76.33
+COV1255,2022-04-30,Wave 3,Omicron,Karnataka,15714,585,62,3,12.69,88.46
+COV1256,2022-04-30,Wave 3,Omicron,Delhi,18357,970,113,9,16.19,78.68
